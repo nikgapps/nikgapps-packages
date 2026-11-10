@@ -1,0 +1,705 @@
+{
+  "schemaVersion": 1,
+  "appSets": [
+    {
+      "id": "android_auto",
+      "name": "AndroidAuto",
+      "packages": [
+        "android_auto"
+      ],
+      "resolvedPackages": [
+        "android_auto"
+      ],
+      "legacyPackageNames": {
+        "android_auto": "AndroidAuto"
+      }
+    },
+    {
+      "id": "android_device_policy",
+      "name": "AndroidDevicePolicy",
+      "packages": [
+        "android_device_policy"
+      ],
+      "resolvedPackages": [
+        "android_device_policy"
+      ],
+      "legacyPackageNames": {
+        "android_device_policy": "AndroidDevicePolicy"
+      }
+    },
+    {
+      "id": "assistant_go",
+      "name": "AssistantGo",
+      "packages": [
+        "assistant_go"
+      ],
+      "resolvedPackages": [
+        "assistant_go"
+      ],
+      "legacyPackageNames": {
+        "assistant_go": "AssistantGo"
+      }
+    },
+    {
+      "id": "books",
+      "name": "Books",
+      "packages": [
+        "books"
+      ],
+      "resolvedPackages": [
+        "books"
+      ],
+      "legacyPackageNames": {
+        "books": "Books"
+      }
+    },
+    {
+      "id": "carrier_services",
+      "name": "CarrierServices",
+      "packages": [
+        "carrier_services"
+      ],
+      "resolvedPackages": [
+        "carrier_services"
+      ],
+      "legacyPackageNames": {
+        "carrier_services": "CarrierServices"
+      }
+    },
+    {
+      "id": "core",
+      "name": "Core",
+      "packages": [
+        "gms_core_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "resolvedPackages": [
+        "gms_core_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "legacyPackageNames": {
+        "gms_core_android17": "GmsCore",
+        "google_play_store": "GooglePlayStore",
+        "google_services_framework": "GoogleServicesFramework"
+      }
+    },
+    {
+      "id": "core_go",
+      "name": "CoreGo",
+      "packages": [
+        "gms_core_go_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "resolvedPackages": [
+        "gms_core_go_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "legacyPackageNames": {
+        "gms_core_go_android17": "GmsCore",
+        "google_play_store": "GooglePlayStore",
+        "google_services_framework": "GoogleServicesFramework"
+      }
+    },
+    {
+      "id": "device_health_services",
+      "name": "DeviceHealthServices",
+      "packages": [
+        "device_health_services"
+      ],
+      "resolvedPackages": [
+        "device_health_services"
+      ],
+      "legacyPackageNames": {
+        "device_health_services": "DeviceHealthServices"
+      }
+    },
+    {
+      "id": "device_setup",
+      "name": "DeviceSetup",
+      "packages": [
+        "device_setup"
+      ],
+      "resolvedPackages": [
+        "device_setup"
+      ],
+      "legacyPackageNames": {
+        "device_setup": "DeviceSetup"
+      }
+    },
+    {
+      "id": "digital_wellbeing",
+      "name": "DigitalWellbeing",
+      "packages": [
+        "digital_wellbeing"
+      ],
+      "resolvedPackages": [
+        "digital_wellbeing"
+      ],
+      "legacyPackageNames": {
+        "digital_wellbeing": "DigitalWellbeing"
+      }
+    },
+    {
+      "id": "drive",
+      "name": "Drive",
+      "packages": [
+        "drive"
+      ],
+      "resolvedPackages": [
+        "drive"
+      ],
+      "legacyPackageNames": {
+        "drive": "Drive"
+      }
+    },
+    {
+      "id": "gallery_go",
+      "name": "GalleryGo",
+      "packages": [
+        "gallery_go"
+      ],
+      "resolvedPackages": [
+        "gallery_go"
+      ],
+      "legacyPackageNames": {
+        "gallery_go": "GalleryGo"
+      }
+    },
+    {
+      "id": "gboard",
+      "name": "GBoard",
+      "packages": [
+        "gboard"
+      ],
+      "resolvedPackages": [
+        "gboard"
+      ],
+      "legacyPackageNames": {
+        "gboard": "GBoard"
+      }
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail",
+      "packages": [
+        "gmail"
+      ],
+      "resolvedPackages": [
+        "gmail"
+      ],
+      "legacyPackageNames": {
+        "gmail": "Gmail"
+      }
+    },
+    {
+      "id": "gmail_go",
+      "name": "GmailGo",
+      "packages": [
+        "gmail_go"
+      ],
+      "resolvedPackages": [
+        "gmail_go"
+      ],
+      "legacyPackageNames": {
+        "gmail_go": "GmailGo"
+      }
+    },
+    {
+      "id": "google_calculator",
+      "name": "GoogleCalculator",
+      "packages": [
+        "google_calculator"
+      ],
+      "resolvedPackages": [
+        "google_calculator"
+      ],
+      "legacyPackageNames": {
+        "google_calculator": "GoogleCalculator"
+      }
+    },
+    {
+      "id": "google_calendar",
+      "name": "GoogleCalendar",
+      "packages": [
+        "google_calendar"
+      ],
+      "resolvedPackages": [
+        "google_calendar"
+      ],
+      "legacyPackageNames": {
+        "google_calendar": "GoogleCalendar"
+      }
+    },
+    {
+      "id": "google_chrome",
+      "name": "GoogleChrome",
+      "packages": [
+        "google_chrome",
+        "trichrome_library",
+        "web_view_google"
+      ],
+      "resolvedPackages": [
+        "google_chrome",
+        "trichrome_library",
+        "web_view_google"
+      ],
+      "legacyPackageNames": {
+        "google_chrome": "GoogleChrome",
+        "trichrome_library": "TrichromeLibrary",
+        "web_view_google": "WebViewGoogle"
+      }
+    },
+    {
+      "id": "google_clock",
+      "name": "GoogleClock",
+      "packages": [
+        "google_clock"
+      ],
+      "resolvedPackages": [
+        "google_clock"
+      ],
+      "legacyPackageNames": {
+        "google_clock": "GoogleClock"
+      }
+    },
+    {
+      "id": "google_contacts",
+      "name": "GoogleContacts",
+      "packages": [
+        "google_contacts"
+      ],
+      "resolvedPackages": [
+        "google_contacts"
+      ],
+      "legacyPackageNames": {
+        "google_contacts": "GoogleContacts"
+      }
+    },
+    {
+      "id": "google_dialer",
+      "name": "GoogleDialer",
+      "packages": [
+        "google_dialer"
+      ],
+      "resolvedPackages": [
+        "google_dialer"
+      ],
+      "legacyPackageNames": {
+        "google_dialer": "GoogleDialer"
+      }
+    },
+    {
+      "id": "google_docs",
+      "name": "GoogleDocs",
+      "packages": [
+        "google_docs"
+      ],
+      "resolvedPackages": [
+        "google_docs"
+      ],
+      "legacyPackageNames": {
+        "google_docs": "GoogleDocs"
+      }
+    },
+    {
+      "id": "google_feedback",
+      "name": "GoogleFeedback",
+      "packages": [
+        "google_feedback"
+      ],
+      "resolvedPackages": [
+        "google_feedback"
+      ],
+      "legacyPackageNames": {
+        "google_feedback": "GoogleFeedback"
+      }
+    },
+    {
+      "id": "google_files",
+      "name": "GoogleFiles",
+      "packages": [
+        "documents_uigoogle",
+        "google_files",
+        "storage_manager"
+      ],
+      "resolvedPackages": [
+        "documents_uigoogle",
+        "google_files",
+        "storage_manager"
+      ],
+      "legacyPackageNames": {
+        "documents_uigoogle": "DocumentsUIGoogle",
+        "google_files": "GoogleFiles",
+        "storage_manager": "StorageManager"
+      }
+    },
+    {
+      "id": "google_go",
+      "name": "GoogleGo",
+      "packages": [
+        "google_go"
+      ],
+      "resolvedPackages": [
+        "google_go"
+      ],
+      "legacyPackageNames": {
+        "google_go": "GoogleGo"
+      }
+    },
+    {
+      "id": "google_keep",
+      "name": "GoogleKeep",
+      "packages": [
+        "google_keep"
+      ],
+      "resolvedPackages": [
+        "google_keep"
+      ],
+      "legacyPackageNames": {
+        "google_keep": "GoogleKeep"
+      }
+    },
+    {
+      "id": "google_location_history",
+      "name": "GoogleLocationHistory",
+      "packages": [
+        "google_location_history"
+      ],
+      "resolvedPackages": [
+        "google_location_history"
+      ],
+      "legacyPackageNames": {
+        "google_location_history": "GoogleLocationHistory"
+      }
+    },
+    {
+      "id": "google_maps",
+      "name": "GoogleMaps",
+      "packages": [
+        "google_maps"
+      ],
+      "resolvedPackages": [
+        "google_maps"
+      ],
+      "legacyPackageNames": {
+        "google_maps": "GoogleMaps"
+      }
+    },
+    {
+      "id": "google_messages",
+      "name": "GoogleMessages",
+      "packages": [
+        "google_messages"
+      ],
+      "resolvedPackages": [
+        "google_messages"
+      ],
+      "legacyPackageNames": {
+        "google_messages": "GoogleMessages"
+      }
+    },
+    {
+      "id": "google_partner_setup",
+      "name": "GooglePartnerSetup",
+      "packages": [
+        "google_partner_setup"
+      ],
+      "resolvedPackages": [
+        "google_partner_setup"
+      ],
+      "legacyPackageNames": {
+        "google_partner_setup": "GooglePartnerSetup"
+      }
+    },
+    {
+      "id": "google_personal_safety",
+      "name": "GooglePersonalSafety",
+      "packages": [
+        "google_personal_safety"
+      ],
+      "resolvedPackages": [
+        "google_personal_safety"
+      ],
+      "legacyPackageNames": {
+        "google_personal_safety": "GooglePersonalSafety"
+      }
+    },
+    {
+      "id": "google_photos",
+      "name": "GooglePhotos",
+      "packages": [
+        "google_photos"
+      ],
+      "resolvedPackages": [
+        "google_photos"
+      ],
+      "legacyPackageNames": {
+        "google_photos": "GooglePhotos"
+      }
+    },
+    {
+      "id": "google_recorder",
+      "name": "GoogleRecorder",
+      "packages": [
+        "google_recorder"
+      ],
+      "resolvedPackages": [
+        "google_recorder"
+      ],
+      "legacyPackageNames": {
+        "google_recorder": "GoogleRecorder"
+      }
+    },
+    {
+      "id": "google_search",
+      "name": "GoogleSearch",
+      "packages": [
+        "gemini",
+        "velvet"
+      ],
+      "resolvedPackages": [
+        "gemini",
+        "velvet"
+      ],
+      "legacyPackageNames": {
+        "gemini": "Gemini",
+        "velvet": "Velvet"
+      }
+    },
+    {
+      "id": "google_sheets",
+      "name": "GoogleSheets",
+      "packages": [
+        "google_sheets"
+      ],
+      "resolvedPackages": [
+        "google_sheets"
+      ],
+      "legacyPackageNames": {
+        "google_sheets": "GoogleSheets"
+      }
+    },
+    {
+      "id": "google_slides",
+      "name": "GoogleSlides",
+      "packages": [
+        "google_slides"
+      ],
+      "resolvedPackages": [
+        "google_slides"
+      ],
+      "legacyPackageNames": {
+        "google_slides": "GoogleSlides"
+      }
+    },
+    {
+      "id": "google_sounds",
+      "name": "GoogleSounds",
+      "packages": [
+        "google_sounds"
+      ],
+      "resolvedPackages": [
+        "google_sounds"
+      ],
+      "legacyPackageNames": {
+        "google_sounds": "GoogleSounds"
+      }
+    },
+    {
+      "id": "google_talkback",
+      "name": "GoogleTalkback",
+      "packages": [
+        "google_talkback"
+      ],
+      "resolvedPackages": [
+        "google_talkback"
+      ],
+      "legacyPackageNames": {
+        "google_talkback": "GoogleTalkback"
+      }
+    },
+    {
+      "id": "google_tts",
+      "name": "GoogleTTS",
+      "packages": [
+        "google_tts"
+      ],
+      "resolvedPackages": [
+        "google_tts"
+      ],
+      "legacyPackageNames": {
+        "google_tts": "GoogleTTS"
+      }
+    },
+    {
+      "id": "maps_go",
+      "name": "MapsGo",
+      "packages": [
+        "maps_go"
+      ],
+      "resolvedPackages": [
+        "maps_go"
+      ],
+      "legacyPackageNames": {
+        "maps_go": "MapsGo"
+      }
+    },
+    {
+      "id": "markup_google",
+      "name": "MarkupGoogle",
+      "packages": [
+        "markup_google"
+      ],
+      "resolvedPackages": [
+        "markup_google"
+      ],
+      "legacyPackageNames": {
+        "markup_google": "MarkupGoogle"
+      }
+    },
+    {
+      "id": "meet",
+      "name": "Meet",
+      "packages": [
+        "meet"
+      ],
+      "resolvedPackages": [
+        "meet"
+      ],
+      "legacyPackageNames": {
+        "meet": "Meet"
+      }
+    },
+    {
+      "id": "navigation_go",
+      "name": "NavigationGo",
+      "packages": [
+        "navigation_go"
+      ],
+      "resolvedPackages": [
+        "navigation_go"
+      ],
+      "legacyPackageNames": {
+        "navigation_go": "NavigationGo"
+      }
+    },
+    {
+      "id": "pixel_setup_wizard",
+      "name": "PixelSetupWizard",
+      "packages": [
+        "google_restore_pixel",
+        "pixel_setup_wizard",
+        "setup_wizard_pixel"
+      ],
+      "resolvedPackages": [
+        "google_restore_pixel",
+        "pixel_setup_wizard",
+        "setup_wizard_pixel"
+      ],
+      "legacyPackageNames": {
+        "google_restore_pixel": "GoogleRestorePixel",
+        "pixel_setup_wizard": "PixelSetupWizard",
+        "setup_wizard_pixel": "SetupWizardPixel"
+      }
+    },
+    {
+      "id": "pixel_specifics",
+      "name": "PixelSpecifics",
+      "packages": [
+        "aicore",
+        "device_personalization_services",
+        "emoji_wallpaper",
+        "google_wallpaper",
+        "pixel_launcher",
+        "pixel_themes",
+        "pixel_weather",
+        "private_compute_services",
+        "quick_access_wallet",
+        "settings_services"
+      ],
+      "resolvedPackages": [
+        "aicore",
+        "device_personalization_services",
+        "emoji_wallpaper",
+        "google_wallpaper",
+        "pixel_launcher",
+        "pixel_themes",
+        "pixel_weather",
+        "private_compute_services",
+        "quick_access_wallet",
+        "settings_services"
+      ],
+      "legacyPackageNames": {
+        "aicore": "AICore",
+        "device_personalization_services": "DevicePersonalizationServices",
+        "emoji_wallpaper": "EmojiWallpaper",
+        "google_wallpaper": "GoogleWallpaper",
+        "pixel_launcher": "PixelLauncher",
+        "pixel_themes": "PixelThemes",
+        "pixel_weather": "PixelWeather",
+        "private_compute_services": "PrivateComputeServices",
+        "quick_access_wallet": "QuickAccessWallet",
+        "settings_services": "SettingsServices"
+      }
+    },
+    {
+      "id": "play_games",
+      "name": "PlayGames",
+      "packages": [
+        "play_games"
+      ],
+      "resolvedPackages": [
+        "play_games"
+      ],
+      "legacyPackageNames": {
+        "play_games": "PlayGames"
+      }
+    },
+    {
+      "id": "setup_wizard",
+      "name": "SetupWizard",
+      "packages": [
+        "google_restore",
+        "setup_wizard"
+      ],
+      "resolvedPackages": [
+        "google_restore",
+        "setup_wizard"
+      ],
+      "legacyPackageNames": {
+        "google_restore": "GoogleRestore",
+        "setup_wizard": "SetupWizard"
+      }
+    },
+    {
+      "id": "you_tube",
+      "name": "YouTube",
+      "packages": [
+        "you_tube"
+      ],
+      "resolvedPackages": [
+        "you_tube"
+      ],
+      "legacyPackageNames": {
+        "you_tube": "YouTube"
+      }
+    },
+    {
+      "id": "you_tube_music",
+      "name": "YouTubeMusic",
+      "packages": [
+        "you_tube_music"
+      ],
+      "resolvedPackages": [
+        "you_tube_music"
+      ],
+      "legacyPackageNames": {
+        "you_tube_music": "YouTubeMusic"
+      }
+    }
+  ]
+}

@@ -1,0 +1,955 @@
+{
+  "schemaVersion": 1,
+  "id": "20260811T034831Z-5b178339",
+  "createdAt": "2026-08-11T03:48:31.945905Z",
+  "androidVersion": "17",
+  "platformApi": 37,
+  "architecture": "arm64-v8a",
+  "channel": "stable",
+  "source": "legacy",
+  "packages": {
+    "aicore": {
+      "version": "395592-6ee65ced3c5b"
+    },
+    "android_auto": {
+      "version": "12565520-799a32e733d1"
+    },
+    "android_device_policy": {
+      "version": "10572820-arm64-v8a-c17dd76c8c7c"
+    },
+    "assistant_go": {
+      "version": "16762-arm64-v8a-3ee5b50da9ee"
+    },
+    "books": {
+      "version": "126520-4ed14e7d9b53"
+    },
+    "carrier_services": {
+      "version": "30939330-a8cb2e58c797"
+    },
+    "device_health_services": {
+      "version": "10272092-arm64-v8a-e173ea24fd8a"
+    },
+    "device_personalization_services": {
+      "version": "16818960-arm64-v8a-5a024e1eaaa6"
+    },
+    "device_setup": {
+      "version": "598-646bb5eb41f9"
+    },
+    "digital_wellbeing": {
+      "version": "814527-arm64-v8a-617da82ff6f9"
+    },
+    "documents_uigoogle": {
+      "version": "340818110-f1341872c51c"
+    },
+    "drive": {
+      "version": "214380540-arm64-v8a-58a511ea5308"
+    },
+    "emoji_wallpaper": {
+      "version": "6454-arm64-v8a-d85cd76cd97d"
+    },
+    "gallery_go": {
+      "version": "12250740-arm64-v8a-946aa8f7ba98"
+    },
+    "gboard": {
+      "version": "175753810-arm64-v8a-568143baf2f3"
+    },
+    "gemini": {
+      "version": "227-arm64-v8a-99682201d736"
+    },
+    "gmail": {
+      "version": "65615106-arm64-v8a-88b6dc0831a2"
+    },
+    "gmail_go": {
+      "version": "62507962-arm64-v8a-3080e1c183c3"
+    },
+    "gms_core": {
+      "version": "253434035-arm64-v8a-8fbccafd94c2"
+    },
+    "gms_core_extra_files": {
+      "version": "content-346342d7e17b"
+    },
+    "gms_core_extra_files_go": {
+      "version": "content-2286d9ca45ad"
+    },
+    "google_calculator": {
+      "version": "85006267-d41e9ea1fe3a"
+    },
+    "google_calendar": {
+      "version": "2018015783-arm64-v8a-3d9ee6f389ef"
+    },
+    "google_calendar_sync_adapter": {
+      "version": "2017039780-49f8172fedf0"
+    },
+    "google_chrome": {
+      "version": "763221832-13708a440a4d"
+    },
+    "google_clock": {
+      "version": "76042511-8799c89ac998"
+    },
+    "google_contacts": {
+      "version": "3266771-arm64-v8a-985f1cd1c534"
+    },
+    "google_contacts_sync_adapter": {
+      "version": "31-2e518787a043"
+    },
+    "google_dialer": {
+      "version": "19622958-arm64-v8a-4e593e59c2ca"
+    },
+    "google_docs": {
+      "version": "214820440-arm64-v8a-501aef4bd65f"
+    },
+    "google_feedback": {
+      "version": "37-dbc10ce42772"
+    },
+    "google_files": {
+      "version": "1031083-arm64-v8a-bf4df5d66416"
+    },
+    "google_go": {
+      "version": "763879-arm64-v8a-6b8d81c39711"
+    },
+    "google_keep": {
+      "version": "220484801-arm64-v8a-3f92e7cc7a10"
+    },
+    "google_location_history": {
+      "version": "3-fafd01ac0e6e"
+    },
+    "google_maps": {
+      "version": "1068538231-arm64-v8a-50e796c09cb9"
+    },
+    "google_messages": {
+      "version": "304819063-arm64-v8a-55b8236585d2"
+    },
+    "google_one_time_initializer": {
+      "version": "36-500c34088b6e"
+    },
+    "google_one_time_initializer_pixel": {
+      "version": "36-998cdc1dcfa3"
+    },
+    "google_partner_setup": {
+      "version": "2869-24ca931b824f"
+    },
+    "google_personal_safety": {
+      "version": "100803594-arm64-v8a-7ce39c63b9ce"
+    },
+    "google_photos": {
+      "version": "51413603-arm64-v8a-cfa6251dc43c"
+    },
+    "google_play_store": {
+      "version": "85073730-arm64-v8a-e851d3c195d0"
+    },
+    "google_recorder": {
+      "version": "42380313-arm64-v8a-57fbc5cafcb0"
+    },
+    "google_restore": {
+      "version": "1007163-5040eb6640b6"
+    },
+    "google_restore_pixel": {
+      "version": "1007163-c1bd6fa964e2"
+    },
+    "google_services_framework": {
+      "version": "37-a3a264028ba7"
+    },
+    "google_sheets": {
+      "version": "214820440-arm64-v8a-3de8fe6d5e92"
+    },
+    "google_slides": {
+      "version": "214820540-arm64-v8a-400a15d2e300"
+    },
+    "google_sounds": {
+      "version": "33000242-261a2d3f2201"
+    },
+    "google_talkback": {
+      "version": "60201234-arm64-v8a-97336d25a19f"
+    },
+    "google_tts": {
+      "version": "210598194-arm64-v8a-98bd4dfc8d3a"
+    },
+    "google_wallpaper": {
+      "version": "200000300-56c9765be744"
+    },
+    "maps_go": {
+      "version": "160-4f71494b1cee"
+    },
+    "markup_google": {
+      "version": "232-arm64-v8a-50c8a3bdeeca"
+    },
+    "meet": {
+      "version": "6958709-arm64-v8a-16ea84a6fc09"
+    },
+    "navigation_go": {
+      "version": "27-arm64-v8a-47e5cc814fa4"
+    },
+    "pixel_launcher": {
+      "version": "907-f3331b6754a1"
+    },
+    "pixel_setup_wizard": {
+      "version": "10595-874217c99a7b"
+    },
+    "pixel_themes": {
+      "version": "2-7c3b1b7f0599"
+    },
+    "pixel_weather": {
+      "version": "10006113-arm64-v8a-ef62e5b8ad8a"
+    },
+    "play_games": {
+      "version": "404700040-arm64-v8a-0a103575738d"
+    },
+    "private_compute_services": {
+      "version": "70139-arm64-v8a-e2ed5de0754e"
+    },
+    "quick_access_wallet": {
+      "version": "10000000-2f30b903d503"
+    },
+    "settings_services": {
+      "version": "1000281541-arm64-v8a-b0c194180a8f"
+    },
+    "setup_wizard": {
+      "version": "41377-arm64-v8a-880d3994e150"
+    },
+    "setup_wizard_pixel": {
+      "version": "41377-arm64-v8a-69a5d10e2885"
+    },
+    "storage_manager": {
+      "version": "37-c09b799dd8ee"
+    },
+    "trichrome_library": {
+      "version": "763221832-a55c11a871a2"
+    },
+    "velvet": {
+      "version": "301714343-arm64-v8a-7ec7494e6fee"
+    },
+    "web_view_google": {
+      "version": "763221804-9a04345f0e5e"
+    },
+    "you_tube": {
+      "version": "1553337816-arm64-v8a-00069f700e54"
+    },
+    "you_tube_music": {
+      "version": "91052240-arm64-v8a-81979ab304c3"
+    }
+  },
+  "appSets": [
+    {
+      "id": "android_auto",
+      "name": "AndroidAuto",
+      "packages": [
+        "android_auto"
+      ],
+      "resolvedPackages": [
+        "android_auto"
+      ],
+      "legacyPackageNames": {
+        "android_auto": "AndroidAuto"
+      }
+    },
+    {
+      "id": "android_device_policy",
+      "name": "AndroidDevicePolicy",
+      "packages": [
+        "android_device_policy"
+      ],
+      "resolvedPackages": [
+        "android_device_policy"
+      ],
+      "legacyPackageNames": {
+        "android_device_policy": "AndroidDevicePolicy"
+      }
+    },
+    {
+      "id": "assistant_go",
+      "name": "AssistantGo",
+      "packages": [
+        "assistant_go"
+      ],
+      "resolvedPackages": [
+        "assistant_go"
+      ],
+      "legacyPackageNames": {
+        "assistant_go": "AssistantGo"
+      }
+    },
+    {
+      "id": "books",
+      "name": "Books",
+      "packages": [
+        "books"
+      ],
+      "resolvedPackages": [
+        "books"
+      ],
+      "legacyPackageNames": {
+        "books": "Books"
+      }
+    },
+    {
+      "id": "carrier_services",
+      "name": "CarrierServices",
+      "packages": [
+        "carrier_services"
+      ],
+      "resolvedPackages": [
+        "carrier_services"
+      ],
+      "legacyPackageNames": {
+        "carrier_services": "CarrierServices"
+      }
+    },
+    {
+      "id": "core",
+      "name": "Core",
+      "packages": [
+        "gms_core",
+        "google_calendar_sync_adapter",
+        "google_contacts_sync_adapter",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "resolvedPackages": [
+        "gms_core",
+        "google_calendar_sync_adapter",
+        "google_contacts_sync_adapter",
+        "google_play_store",
+        "google_services_framework",
+        "gms_core_extra_files"
+      ],
+      "legacyPackageNames": {
+        "gms_core": "GmsCore",
+        "google_calendar_sync_adapter": "GoogleCalendarSyncAdapter",
+        "google_contacts_sync_adapter": "GoogleContactsSyncAdapter",
+        "google_play_store": "GooglePlayStore",
+        "google_services_framework": "GoogleServicesFramework",
+        "gms_core_extra_files": "ExtraFiles"
+      }
+    },
+    {
+      "id": "core_go",
+      "name": "CoreGo",
+      "packages": [
+        "gms_core",
+        "google_calendar_sync_adapter",
+        "google_contacts_sync_adapter",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "resolvedPackages": [
+        "gms_core",
+        "google_calendar_sync_adapter",
+        "google_contacts_sync_adapter",
+        "google_play_store",
+        "google_services_framework",
+        "gms_core_extra_files_go"
+      ],
+      "legacyPackageNames": {
+        "gms_core": "GmsCore",
+        "google_calendar_sync_adapter": "GoogleCalendarSyncAdapter",
+        "google_contacts_sync_adapter": "GoogleContactsSyncAdapter",
+        "google_play_store": "GooglePlayStore",
+        "google_services_framework": "GoogleServicesFramework",
+        "gms_core_extra_files_go": "ExtraFilesGo"
+      }
+    },
+    {
+      "id": "device_health_services",
+      "name": "DeviceHealthServices",
+      "packages": [
+        "device_health_services"
+      ],
+      "resolvedPackages": [
+        "device_health_services"
+      ],
+      "legacyPackageNames": {
+        "device_health_services": "DeviceHealthServices"
+      }
+    },
+    {
+      "id": "device_setup",
+      "name": "DeviceSetup",
+      "packages": [
+        "device_setup"
+      ],
+      "resolvedPackages": [
+        "device_setup"
+      ],
+      "legacyPackageNames": {
+        "device_setup": "DeviceSetup"
+      }
+    },
+    {
+      "id": "digital_wellbeing",
+      "name": "DigitalWellbeing",
+      "packages": [
+        "digital_wellbeing"
+      ],
+      "resolvedPackages": [
+        "digital_wellbeing"
+      ],
+      "legacyPackageNames": {
+        "digital_wellbeing": "DigitalWellbeing"
+      }
+    },
+    {
+      "id": "drive",
+      "name": "Drive",
+      "packages": [
+        "drive"
+      ],
+      "resolvedPackages": [
+        "drive"
+      ],
+      "legacyPackageNames": {
+        "drive": "Drive"
+      }
+    },
+    {
+      "id": "gboard",
+      "name": "GBoard",
+      "packages": [
+        "gboard"
+      ],
+      "resolvedPackages": [
+        "gboard"
+      ],
+      "legacyPackageNames": {
+        "gboard": "GBoard"
+      }
+    },
+    {
+      "id": "gallery_go",
+      "name": "GalleryGo",
+      "packages": [
+        "gallery_go"
+      ],
+      "resolvedPackages": [
+        "gallery_go"
+      ],
+      "legacyPackageNames": {
+        "gallery_go": "GalleryGo"
+      }
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail",
+      "packages": [
+        "gmail"
+      ],
+      "resolvedPackages": [
+        "gmail"
+      ],
+      "legacyPackageNames": {
+        "gmail": "Gmail"
+      }
+    },
+    {
+      "id": "gmail_go",
+      "name": "GmailGo",
+      "packages": [
+        "gmail_go"
+      ],
+      "resolvedPackages": [
+        "gmail_go"
+      ],
+      "legacyPackageNames": {
+        "gmail_go": "GmailGo"
+      }
+    },
+    {
+      "id": "google_calculator",
+      "name": "GoogleCalculator",
+      "packages": [
+        "google_calculator"
+      ],
+      "resolvedPackages": [
+        "google_calculator"
+      ],
+      "legacyPackageNames": {
+        "google_calculator": "GoogleCalculator"
+      }
+    },
+    {
+      "id": "google_calendar",
+      "name": "GoogleCalendar",
+      "packages": [
+        "google_calendar"
+      ],
+      "resolvedPackages": [
+        "google_calendar"
+      ],
+      "legacyPackageNames": {
+        "google_calendar": "GoogleCalendar"
+      }
+    },
+    {
+      "id": "google_chrome",
+      "name": "GoogleChrome",
+      "packages": [
+        "google_chrome",
+        "trichrome_library",
+        "web_view_google"
+      ],
+      "resolvedPackages": [
+        "google_chrome",
+        "trichrome_library",
+        "web_view_google"
+      ],
+      "legacyPackageNames": {
+        "google_chrome": "GoogleChrome",
+        "trichrome_library": "TrichromeLibrary",
+        "web_view_google": "WebViewGoogle"
+      }
+    },
+    {
+      "id": "google_clock",
+      "name": "GoogleClock",
+      "packages": [
+        "google_clock"
+      ],
+      "resolvedPackages": [
+        "google_clock"
+      ],
+      "legacyPackageNames": {
+        "google_clock": "GoogleClock"
+      }
+    },
+    {
+      "id": "google_contacts",
+      "name": "GoogleContacts",
+      "packages": [
+        "google_contacts"
+      ],
+      "resolvedPackages": [
+        "google_contacts"
+      ],
+      "legacyPackageNames": {
+        "google_contacts": "GoogleContacts"
+      }
+    },
+    {
+      "id": "google_dialer",
+      "name": "GoogleDialer",
+      "packages": [
+        "google_dialer"
+      ],
+      "resolvedPackages": [
+        "google_dialer"
+      ],
+      "legacyPackageNames": {
+        "google_dialer": "GoogleDialer"
+      }
+    },
+    {
+      "id": "google_docs",
+      "name": "GoogleDocs",
+      "packages": [
+        "google_docs"
+      ],
+      "resolvedPackages": [
+        "google_docs"
+      ],
+      "legacyPackageNames": {
+        "google_docs": "GoogleDocs"
+      }
+    },
+    {
+      "id": "google_feedback",
+      "name": "GoogleFeedback",
+      "packages": [
+        "google_feedback"
+      ],
+      "resolvedPackages": [
+        "google_feedback"
+      ],
+      "legacyPackageNames": {
+        "google_feedback": "GoogleFeedback"
+      }
+    },
+    {
+      "id": "google_files",
+      "name": "GoogleFiles",
+      "packages": [
+        "documents_uigoogle",
+        "google_files",
+        "storage_manager"
+      ],
+      "resolvedPackages": [
+        "documents_uigoogle",
+        "google_files",
+        "storage_manager"
+      ],
+      "legacyPackageNames": {
+        "documents_uigoogle": "DocumentsUIGoogle",
+        "google_files": "GoogleFiles",
+        "storage_manager": "StorageManager"
+      }
+    },
+    {
+      "id": "google_go",
+      "name": "GoogleGo",
+      "packages": [
+        "google_go"
+      ],
+      "resolvedPackages": [
+        "google_go"
+      ],
+      "legacyPackageNames": {
+        "google_go": "GoogleGo"
+      }
+    },
+    {
+      "id": "google_keep",
+      "name": "GoogleKeep",
+      "packages": [
+        "google_keep"
+      ],
+      "resolvedPackages": [
+        "google_keep"
+      ],
+      "legacyPackageNames": {
+        "google_keep": "GoogleKeep"
+      }
+    },
+    {
+      "id": "google_location_history",
+      "name": "GoogleLocationHistory",
+      "packages": [
+        "google_location_history"
+      ],
+      "resolvedPackages": [
+        "google_location_history"
+      ],
+      "legacyPackageNames": {
+        "google_location_history": "GoogleLocationHistory"
+      }
+    },
+    {
+      "id": "google_maps",
+      "name": "GoogleMaps",
+      "packages": [
+        "google_maps"
+      ],
+      "resolvedPackages": [
+        "google_maps"
+      ],
+      "legacyPackageNames": {
+        "google_maps": "GoogleMaps"
+      }
+    },
+    {
+      "id": "google_messages",
+      "name": "GoogleMessages",
+      "packages": [
+        "google_messages"
+      ],
+      "resolvedPackages": [
+        "google_messages"
+      ],
+      "legacyPackageNames": {
+        "google_messages": "GoogleMessages"
+      }
+    },
+    {
+      "id": "google_partner_setup",
+      "name": "GooglePartnerSetup",
+      "packages": [
+        "google_partner_setup"
+      ],
+      "resolvedPackages": [
+        "google_partner_setup"
+      ],
+      "legacyPackageNames": {
+        "google_partner_setup": "GooglePartnerSetup"
+      }
+    },
+    {
+      "id": "google_personal_safety",
+      "name": "GooglePersonalSafety",
+      "packages": [
+        "google_personal_safety"
+      ],
+      "resolvedPackages": [
+        "google_personal_safety"
+      ],
+      "legacyPackageNames": {
+        "google_personal_safety": "GooglePersonalSafety"
+      }
+    },
+    {
+      "id": "google_photos",
+      "name": "GooglePhotos",
+      "packages": [
+        "google_photos"
+      ],
+      "resolvedPackages": [
+        "google_photos"
+      ],
+      "legacyPackageNames": {
+        "google_photos": "GooglePhotos"
+      }
+    },
+    {
+      "id": "google_recorder",
+      "name": "GoogleRecorder",
+      "packages": [
+        "google_recorder"
+      ],
+      "resolvedPackages": [
+        "google_recorder"
+      ],
+      "legacyPackageNames": {
+        "google_recorder": "GoogleRecorder"
+      }
+    },
+    {
+      "id": "google_search",
+      "name": "GoogleSearch",
+      "packages": [
+        "gemini",
+        "velvet"
+      ],
+      "resolvedPackages": [
+        "gemini",
+        "velvet"
+      ],
+      "legacyPackageNames": {
+        "gemini": "Gemini",
+        "velvet": "Velvet"
+      }
+    },
+    {
+      "id": "google_sheets",
+      "name": "GoogleSheets",
+      "packages": [
+        "google_sheets"
+      ],
+      "resolvedPackages": [
+        "google_sheets"
+      ],
+      "legacyPackageNames": {
+        "google_sheets": "GoogleSheets"
+      }
+    },
+    {
+      "id": "google_slides",
+      "name": "GoogleSlides",
+      "packages": [
+        "google_slides"
+      ],
+      "resolvedPackages": [
+        "google_slides"
+      ],
+      "legacyPackageNames": {
+        "google_slides": "GoogleSlides"
+      }
+    },
+    {
+      "id": "google_sounds",
+      "name": "GoogleSounds",
+      "packages": [
+        "google_sounds"
+      ],
+      "resolvedPackages": [
+        "google_sounds"
+      ],
+      "legacyPackageNames": {
+        "google_sounds": "GoogleSounds"
+      }
+    },
+    {
+      "id": "google_tts",
+      "name": "GoogleTTS",
+      "packages": [
+        "google_tts"
+      ],
+      "resolvedPackages": [
+        "google_tts"
+      ],
+      "legacyPackageNames": {
+        "google_tts": "GoogleTTS"
+      }
+    },
+    {
+      "id": "google_talkback",
+      "name": "GoogleTalkback",
+      "packages": [
+        "google_talkback"
+      ],
+      "resolvedPackages": [
+        "google_talkback"
+      ],
+      "legacyPackageNames": {
+        "google_talkback": "GoogleTalkback"
+      }
+    },
+    {
+      "id": "maps_go",
+      "name": "MapsGo",
+      "packages": [
+        "maps_go"
+      ],
+      "resolvedPackages": [
+        "maps_go"
+      ],
+      "legacyPackageNames": {
+        "maps_go": "MapsGo"
+      }
+    },
+    {
+      "id": "markup_google",
+      "name": "MarkupGoogle",
+      "packages": [
+        "markup_google"
+      ],
+      "resolvedPackages": [
+        "markup_google"
+      ],
+      "legacyPackageNames": {
+        "markup_google": "MarkupGoogle"
+      }
+    },
+    {
+      "id": "meet",
+      "name": "Meet",
+      "packages": [
+        "meet"
+      ],
+      "resolvedPackages": [
+        "meet"
+      ],
+      "legacyPackageNames": {
+        "meet": "Meet"
+      }
+    },
+    {
+      "id": "navigation_go",
+      "name": "NavigationGo",
+      "packages": [
+        "navigation_go"
+      ],
+      "resolvedPackages": [
+        "navigation_go"
+      ],
+      "legacyPackageNames": {
+        "navigation_go": "NavigationGo"
+      }
+    },
+    {
+      "id": "pixel_setup_wizard",
+      "name": "PixelSetupWizard",
+      "packages": [
+        "google_one_time_initializer_pixel",
+        "google_restore_pixel",
+        "pixel_setup_wizard",
+        "setup_wizard_pixel"
+      ],
+      "resolvedPackages": [
+        "google_one_time_initializer_pixel",
+        "google_restore_pixel",
+        "pixel_setup_wizard",
+        "setup_wizard_pixel"
+      ],
+      "legacyPackageNames": {
+        "google_one_time_initializer_pixel": "GoogleOneTimeInitializerPixel",
+        "google_restore_pixel": "GoogleRestorePixel",
+        "pixel_setup_wizard": "PixelSetupWizard",
+        "setup_wizard_pixel": "SetupWizardPixel"
+      }
+    },
+    {
+      "id": "pixel_specifics",
+      "name": "PixelSpecifics",
+      "packages": [
+        "aicore",
+        "device_personalization_services",
+        "emoji_wallpaper",
+        "google_wallpaper",
+        "pixel_launcher",
+        "pixel_themes",
+        "pixel_weather",
+        "private_compute_services",
+        "quick_access_wallet",
+        "settings_services"
+      ],
+      "resolvedPackages": [
+        "aicore",
+        "device_personalization_services",
+        "emoji_wallpaper",
+        "google_wallpaper",
+        "pixel_launcher",
+        "pixel_themes",
+        "pixel_weather",
+        "private_compute_services",
+        "quick_access_wallet",
+        "settings_services"
+      ],
+      "legacyPackageNames": {
+        "aicore": "AICore",
+        "device_personalization_services": "DevicePersonalizationServices",
+        "emoji_wallpaper": "EmojiWallpaper",
+        "google_wallpaper": "GoogleWallpaper",
+        "pixel_launcher": "PixelLauncher",
+        "pixel_themes": "PixelThemes",
+        "pixel_weather": "PixelWeather",
+        "private_compute_services": "PrivateComputeServices",
+        "quick_access_wallet": "QuickAccessWallet",
+        "settings_services": "SettingsServices"
+      }
+    },
+    {
+      "id": "play_games",
+      "name": "PlayGames",
+      "packages": [
+        "play_games"
+      ],
+      "resolvedPackages": [
+        "play_games"
+      ],
+      "legacyPackageNames": {
+        "play_games": "PlayGames"
+      }
+    },
+    {
+      "id": "setup_wizard",
+      "name": "SetupWizard",
+      "packages": [
+        "google_one_time_initializer",
+        "google_restore",
+        "setup_wizard"
+      ],
+      "resolvedPackages": [
+        "google_one_time_initializer",
+        "google_restore",
+        "setup_wizard"
+      ],
+      "legacyPackageNames": {
+        "google_one_time_initializer": "GoogleOneTimeInitializer",
+        "google_restore": "GoogleRestore",
+        "setup_wizard": "SetupWizard"
+      }
+    },
+    {
+      "id": "you_tube",
+      "name": "YouTube",
+      "packages": [
+        "you_tube"
+      ],
+      "resolvedPackages": [
+        "you_tube"
+      ],
+      "legacyPackageNames": {
+        "you_tube": "YouTube"
+      }
+    },
+    {
+      "id": "you_tube_music",
+      "name": "YouTubeMusic",
+      "packages": [
+        "you_tube_music"
+      ],
+      "resolvedPackages": [
+        "you_tube_music"
+      ],
+      "legacyPackageNames": {
+        "you_tube_music": "YouTubeMusic"
+      }
+    }
+  ]
+}

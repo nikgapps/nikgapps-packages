@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "assets": {
+    "META-INF/com/google/android/update-binary": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730133402",
+      "sha256": "814aeb0aab3531cf8af4f01fb62c875afa6877767ac0fec683203daddeb42249",
+      "size": 2082
+    },
+    "afzc/debloater.config": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730150880",
+      "sha256": "ed6c7e587f772522474d82424f9fb2f13b4f14523342030a25c28969fe7cddb5",
+      "size": 878
+    },
+    "changelog.yaml": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730143670",
+      "sha256": "bf4fb9f49a754c54c824d025275c56227111d32b57f605b3ef873142080fa332",
+      "size": 51329
+    },
+    "common/addon.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730115758",
+      "sha256": "17f33fd839b3aec53ff16e9f7fa3455db746fa3ec9ba67be499ea2595da4a45d",
+      "size": 9547
+    },
+    "common/functions.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730151383",
+      "sha256": "f6338710cd1c9a43f470c223eca68dc170ce006d16c4eb886606a7c6ed58a055",
+      "size": 3859
+    },
+    "common/header.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730136086",
+      "sha256": "9803f3f1a15d79d57092ddf92a81908efdef9ed1fab6b9df55b6709c34c0e537",
+      "size": 481
+    },
+    "common/mtg_mount.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730120444",
+      "sha256": "33aa18b3b68b98c44125b22af003661f11ab4c87fb2717b418bb0fab749d989d",
+      "size": 2697
+    },
+    "common/mount.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730116092",
+      "sha256": "1bfac092d432ad4409a50942a6285b0b05ab0c227bd73344649dd9080440ecc4",
+      "size": 6018
+    },
+    "common/nikgapps_functions.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144746",
+      "sha256": "ccd6c86ff0f743d0a4cec99affc936b6843cc49bdcc59178adc2b65c4b35a7b5",
+      "size": 64856
+    },
+    "common/debloater_guard.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144696",
+      "sha256": "cc25cd4124d4ca2882902abc1b24bfe7496f22e173a4e16157fb96402a2d7e41",
+      "size": 5816
+    },
+    "common/unmount.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730119469",
+      "sha256": "2fc2eaed955fc1acd7699a79264b9c7b6a4218908b661e7bba3fc1cc54836fe7",
+      "size": 1107
+    },
+    "@template/customize.sh": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144233",
+      "sha256": "c3bc7356994edaeb3d71669f0651a3fb76e2302bf0b6d2f0575ab8d1deb75b9d",
+      "size": 10255
+    },
+    "module.prop": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730147542",
+      "sha256": "db5f20531fd1111b6000f5ca203e5d0a0746818bf166e035d7f315e231b962b4",
+      "size": 235
+    },
+    "@template/nikgapps.config": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730146584",
+      "sha256": "d510415ebcaf82a41e4374bbc2122072149beb84777714383d95d43903137b59",
+      "size": 3714
+    },
+    "busybox": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730116269",
+      "sha256": "1d762e89641c991aecc60bbef37c2e97542ba1f7f693f2c90b405de1d17ea7c8",
+      "size": 2149248
+    }
+  }
+}

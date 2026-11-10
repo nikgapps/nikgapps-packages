@@ -1,0 +1,303 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-08-11T03:03:32.770708Z",
+  "androidVersion": "16",
+  "platformApi": 36,
+  "architecture": "arm64-v8a",
+  "channel": "stable",
+  "source": "legacy",
+  "packages": {
+    "aicore": {
+      "version": "151239-49d225dc44a4",
+      "sha256": "8f8d50510c4846d35df4011717408d0c89f6d1de9352b4a3fa7b4591a6d69bea"
+    },
+    "android_auto": {
+      "version": "12552680-71016e4aad11",
+      "sha256": "aca229c10ceae9a82ab5d3bd548aa1adad8af6625b2b4ad4ea4a2c1fec972902"
+    },
+    "android_device_policy": {
+      "version": "10334460-2f98790ec927",
+      "sha256": "57ee2b80258ca6412a155f489585b52a6f8a614035c52626be347a8512bfa1e5"
+    },
+    "assistant_go": {
+      "version": "16762-arm64-v8a-3ee5b50da9ee",
+      "sha256": "7f759dea8439994e74c31759de54e05e48ae57ea8349b237415586f30cd4aabc"
+    },
+    "books": {
+      "version": "126520-4ed14e7d9b53",
+      "sha256": "af4347e18bddd531ae5860def3c937b993f564d46b37ca9c86931bcb6f2d6aa4"
+    },
+    "carrier_services": {
+      "version": "30939330-a8cb2e58c797",
+      "sha256": "afd6b5eb8f826e92a4b9aebbb13394664d061b477b762aa5e29fe38e12ed2916"
+    },
+    "device_health_services": {
+      "version": "10271342-arm64-v8a-c211714f8374",
+      "sha256": "3ec53f5d8af1681ad4f28ccb7fc683080e368bca2a31522deb816dd985fc851a"
+    },
+    "device_personalization_services": {
+      "version": "14796054-arm64-v8a-05e4382c1d7b",
+      "sha256": "79f2f1aa7a130dd0d8235df45b2b2dcf927c580985ad7866269c49c51efba6a5"
+    },
+    "device_setup": {
+      "version": "510-682a18602de9",
+      "sha256": "9dcdc69adec3460b57c7650a521db46c5eb7adff6a88fb3ab2e6a72fa4cc9f4c"
+    },
+    "digital_wellbeing": {
+      "version": "756717-arm64-v8a-8b3b06018e18",
+      "sha256": "5909841d2e03200ca249baebf11d61efac706740288259c631819830765030cf"
+    },
+    "documents_uigoogle": {
+      "version": "340818110-f1341872c51c",
+      "sha256": "deae49158651d48fc16a16752185042a81b5d3fdd7fba3cd48c3ae5c2541f43e"
+    },
+    "drive": {
+      "version": "214066615-arm64-v8a-83dadd9f8c40",
+      "sha256": "02dd49df28a69042dafdba4ed44404add957217f433eac919c2b40153eb0025a"
+    },
+    "emoji_wallpaper": {
+      "version": "6454-arm64-v8a-871608789bf9",
+      "sha256": "60d0eaccc7b26811ea0f40b54148f63181a0f1e0c1323b805f87d877c47f782c"
+    },
+    "gallery_go": {
+      "version": "12250740-arm64-v8a-946aa8f7ba98",
+      "sha256": "d5bdc2e3c427d0db7ebe6b7ce71d67575abcce99a52a714002bab98a6467529c"
+    },
+    "gboard": {
+      "version": "175370066-arm64-v8a-3a377b5f1d05",
+      "sha256": "d93e463425a7837a33006f59ff4405e7714df11ec9742bd3c13dd1bd298d67e2"
+    },
+    "gemini": {
+      "version": "227-arm64-v8a-39c817b1b555",
+      "sha256": "f54f1e6e0f7d3e8bfc842036be5679497bfc9fa6308f46fbf294786661820dd7"
+    },
+    "gmail": {
+      "version": "65299372-arm64-v8a-c728ecca568e",
+      "sha256": "17be60376a4f3689e20243bd763bb2de54bd7d5e3a45fa5baf7c7f3b02306531"
+    },
+    "gmail_go": {
+      "version": "62507962-arm64-v8a-3080e1c183c3",
+      "sha256": "a64acff8c2560fbbe635aa0aeca5568056bcf0983498f07c48669e273e7f9523"
+    },
+    "gms_core": {
+      "version": "253434035-arm64-v8a-2046c6f49630",
+      "sha256": "ff05ed31d08e4bacf3ffa861d8a8808602909748ccaa73c7d6b7a571d996cddf"
+    },
+    "gms_core_extra_files": {
+      "version": "content-ea5b3ccd6035",
+      "sha256": "3d2853cb5496852583c2e6401b56890bf4e4c8dc1541039b7dfda0929ca20c60"
+    },
+    "gms_core_extra_files_go": {
+      "version": "content-4b125c064302",
+      "sha256": "86b724e23ebf44133a55b209a1a91e6d6107ee312f18bae12674090843cf863c"
+    },
+    "google_calculator": {
+      "version": "85006267-f24604da70af",
+      "sha256": "273306cb9e61ce5318e230ab4061cfb107022c3337e219c71f39e19f3bfaad74"
+    },
+    "google_calendar": {
+      "version": "2017693769-8bee561e4cb5",
+      "sha256": "e4d7a5fc823c7e99e1d64811cde803be888555607c4ac1523734277c99aebc34"
+    },
+    "google_calendar_sync_adapter": {
+      "version": "2017039780-49f8172fedf0",
+      "sha256": "ee76d067e052bce970d225f22d608bb9cf9bc703cfef145d5effb1104b1944a6"
+    },
+    "google_chrome": {
+      "version": "699813532-7d46476d6d6a",
+      "sha256": "6926ce4b5a3979e8669b75f07e050ea40d22d885f0cd0d53d693885415cb9e7a"
+    },
+    "google_clock": {
+      "version": "76007351-d5c9c328ab6c",
+      "sha256": "3861bffce44599e28946f2689c60bf92c4e3bc0928a188183bdca3c67b7f63f5"
+    },
+    "google_contacts": {
+      "version": "3239333-arm64-v8a-3d8b4b4327b2",
+      "sha256": "b50637d8b89d17c0681c4db5b54febc47147ccc68de8e1f27a52bdc9ce9b043b"
+    },
+    "google_contacts_sync_adapter": {
+      "version": "31-2e518787a043",
+      "sha256": "9158afaa96ad8e50012923024d9442d64b6dadffb9f5834f6628ab4e94254268"
+    },
+    "google_dialer": {
+      "version": "19000468-arm64-v8a-9484c78bf17d",
+      "sha256": "b69ea39e5bb1db8851e06840226aeee07085f4e956d58b61b0621fe53b2a98b4"
+    },
+    "google_docs": {
+      "version": "214820440-arm64-v8a-501aef4bd65f",
+      "sha256": "6c6b570941434bd7301267bc95cefc6b12e7df52b61db53cf1a4fd4c92220fe3"
+    },
+    "google_feedback": {
+      "version": "36-0cc103198c22",
+      "sha256": "4be9bd5343abfe13b03f8d829a59040141c9d703c7edf231082923deac1e638d"
+    },
+    "google_files": {
+      "version": "1031083-arm64-v8a-187067715701",
+      "sha256": "de1d3aeace373652d10b9f8eb1673219764b308fa12a0e4da33014aeed11b02c"
+    },
+    "google_go": {
+      "version": "763879-arm64-v8a-6b8d81c39711",
+      "sha256": "e95f1ce1838b1567804452f6107e25f4b67b968e38b2dc482d3cca06883fa564"
+    },
+    "google_keep": {
+      "version": "220484801-arm64-v8a-3f92e7cc7a10",
+      "sha256": "6e815c4ad22e5bc1828d5abda3a2b961a61505bb072bf9b7a6e7e3a75a2dd3a9"
+    },
+    "google_location_history": {
+      "version": "3-efb1cd428e59",
+      "sha256": "9223e2980cf0b78ec6a3cfa9340734a36e7304237a67faf6c9ddebde16856f1e"
+    },
+    "google_maps": {
+      "version": "1068224018-arm64-v8a-41b2b43919e8",
+      "sha256": "7e045c865f5927123742a6fb55b7f50bb1760f0ea243c80c786244514bd83ff1"
+    },
+    "google_messages": {
+      "version": "273726063-arm64-v8a-4371fa18acef",
+      "sha256": "0acf629e924da98604e899296b8676702ef030afba00f15ac32c689ca75eac5b"
+    },
+    "google_one_time_initializer": {
+      "version": "36-500c34088b6e",
+      "sha256": "c21e81f789b0298155974108c4ea728f7cf1eeed5e42c5a0ffd642284e15ebc6"
+    },
+    "google_one_time_initializer_pixel": {
+      "version": "36-998cdc1dcfa3",
+      "sha256": "323fee517a8810c5372525d5d0430671b9f7ea848b811d5e2e138bd0d52312b6"
+    },
+    "google_partner_setup": {
+      "version": "2869-f7734bbac425",
+      "sha256": "4a6cc1ff1874c2359e90306bd2e6a87e98965cf1c32d857a814fa694ad3e335a"
+    },
+    "google_personal_safety": {
+      "version": "100693219-arm64-v8a-9af58e1873f4",
+      "sha256": "160d8babe53cc2de75801e46dc6ad8a7e7c24d0112138c23d3899e48b5a598ce"
+    },
+    "google_photos": {
+      "version": "50050824-arm64-v8a-4607ce486fcd",
+      "sha256": "2b9376d747046b650f09a0c6d3dd5137eaa492392a0be277aefd9cdb8a398202"
+    },
+    "google_play_store": {
+      "version": "84793030-arm64-v8a-f4c0e6eab210",
+      "sha256": "44a43314c9ef2d3104d44ec32a6693a861ef5fd151ef3bd6f8425c3f40b2f5ff"
+    },
+    "google_recorder": {
+      "version": "42239713-arm64-v8a-daab08d33ea2",
+      "sha256": "579ce61df8cceef15a59041ae4c477f5444c8d4e910df0d74c998f7d9f354541"
+    },
+    "google_restore": {
+      "version": "842048-226ea90e4df1",
+      "sha256": "a23b6cc11e191f32ff64f863be7b6b4e3521b9b0595f77add2fbec92db61a3f1"
+    },
+    "google_restore_pixel": {
+      "version": "842048-f07e1c21257d",
+      "sha256": "2c9343e1d703e223dd73287cb1a4790055fde4f9cba0c3ed492fa30f2c5dd6ee"
+    },
+    "google_services_framework": {
+      "version": "36-8fb386a792ec",
+      "sha256": "91c6789ce9fdab150ffc8330c8b34f0575eb6913256132cdf34917a7baa7cabb"
+    },
+    "google_sheets": {
+      "version": "214820440-arm64-v8a-3de8fe6d5e92",
+      "sha256": "1df3d6966af4e0d9fb52b008f3ba8a4fb8bee9e850ecfb9663c1bcdf5ec2b9cd"
+    },
+    "google_slides": {
+      "version": "214820540-arm64-v8a-400a15d2e300",
+      "sha256": "3a12744b4a9d0d0f954013533070b78c0d8062382b3a02531f7f86a1a5ac24f8"
+    },
+    "google_sounds": {
+      "version": "33000242-7c9dcf18539c",
+      "sha256": "8e5eebf2ae3e6708ae7d636a1319d2266251c8631c709171fc5dcb0d11ae66ed"
+    },
+    "google_talkback": {
+      "version": "60162622-arm64-v8a-378cea61518c",
+      "sha256": "44d142e8ae9afa9f0956ac6df406ed171e4b6d8091c8a1197c5128cda17f4425"
+    },
+    "google_tts": {
+      "version": "210582124-arm64-v8a-bed4dcc396de",
+      "sha256": "6d101f6136431f532460ca233923184c7cd755a6f71c3bd28c904907fb5d09bf"
+    },
+    "google_wallpaper": {
+      "version": "200000300-25e7696750e5",
+      "sha256": "aef5c32d3c1016c5b899e1ee1e188c8ec6c7dbd8377fea67c5547ed74e82f2fe"
+    },
+    "maps_go": {
+      "version": "160-4f71494b1cee",
+      "sha256": "52c417c5a3a39c17d627c739b8305e98a17f3a9487334b0d60eb8698dfe423bc"
+    },
+    "markup_google": {
+      "version": "232-arm64-v8a-3a33c281350e",
+      "sha256": "1f8f3580a68e9d3110082780fa004053b1065eb9de7d4f7c06c90329dc9944f4"
+    },
+    "meet": {
+      "version": "6237214-arm64-v8a-8c50cdd07407",
+      "sha256": "6cd75b833d66ca63708e8e82d992a4fe8ce6c9fa0c6fce915912f8c9defb5c38"
+    },
+    "navigation_go": {
+      "version": "27-arm64-v8a-47e5cc814fa4",
+      "sha256": "921c6a9c73f99f348d4b6ebdfcf8580d62901d391c0b7bb0de635eec71e1f047"
+    },
+    "pixel_launcher": {
+      "version": "907-409a8ce4ab77",
+      "sha256": "b61875b4e8cdf46c4e1e979ea845ddf232fe225829c4b5e4eb3be2da0de396a7"
+    },
+    "pixel_setup_wizard": {
+      "version": "8588-ea0b4affbc8d",
+      "sha256": "931076d3776143337b117b3f510aad87a271523baeb2602f1bc57409552104ff"
+    },
+    "pixel_themes": {
+      "version": "2-5778bb85082e",
+      "sha256": "b361a028b9efaa809c9b55bb35177502602b32aefd2e91cc86be82ae7bf131cb"
+    },
+    "pixel_weather": {
+      "version": "10006113-arm64-v8a-818d88d25ed9",
+      "sha256": "37547f1ed809b1c705deac304b63e28a78fd61bc81bcefaeffcd0064aed4e814"
+    },
+    "play_games": {
+      "version": "404700040-arm64-v8a-0a103575738d",
+      "sha256": "46c19dd7ca6c609dccfc1a2a0ffbd0ff2e9c3cce09b87a146bed87763ab70690"
+    },
+    "private_compute_services": {
+      "version": "70139-arm64-v8a-e2ed5de0754e",
+      "sha256": "722ee87f71928eec655fa4f0a9c11165d5f7094d4a8bcdb62f64e14d640dbfff"
+    },
+    "quick_access_wallet": {
+      "version": "10000000-b5cd799b26ed",
+      "sha256": "c52d18826040965e601d26cf6f3635466a4c7c4974e92d1dd826e48ca2e29514"
+    },
+    "settings_services": {
+      "version": "1000242341-arm64-v8a-077d1cb27bea",
+      "sha256": "5faea30f8a13ba0ab582b5b4ad236ecb9a88c82796f98e3f6fc5efe1160a1d55"
+    },
+    "setup_wizard": {
+      "version": "38031-arm64-v8a-6419180ee472",
+      "sha256": "7e3a6c07fd12737753100d1333e4661c3f2126145363750c3cad1b344f135469"
+    },
+    "setup_wizard_pixel": {
+      "version": "38031-arm64-v8a-89433365b71e",
+      "sha256": "fb34b01505791e3eaeb6048e241270ea24cd01832370c7f6605ce2a09546e6fc"
+    },
+    "storage_manager": {
+      "version": "36-03ced5bb31be",
+      "sha256": "5766e6f3da922b887f118437d49226ca5186630e5767b749116fe10d1d6047ac"
+    },
+    "trichrome_library": {
+      "version": "699813532-759bae5d58e3",
+      "sha256": "99799c117457b677b3b65a0bc7e999893bcf1e9aadc6098eb91a2b66d5a966f7"
+    },
+    "velvet": {
+      "version": "301597491-arm64-v8a-77d7650de233",
+      "sha256": "3200705351f7626fb120d161b9b5944e6a668f198d9e3fd8d5263cc108f53d39"
+    },
+    "web_view_google": {
+      "version": "699813532-36d699d505cf",
+      "sha256": "b66593c892939492707422fef07448e52b1e74d2ef00a2bc4bc0589dc0184ffe"
+    },
+    "you_tube": {
+      "version": "1553337816-arm64-v8a-cbd03081d484",
+      "sha256": "f3cde2473a00829a439dbab0bb5f2de1fb0f960ab285879f99cd33681e68dd2e"
+    },
+    "you_tube_music": {
+      "version": "80950240-arm64-v8a-e191c994989f",
+      "sha256": "07d10daf41c3d79db5662c830fece770e3354c9e559d3a97c3669b11e4584410"
+    }
+  }
+}

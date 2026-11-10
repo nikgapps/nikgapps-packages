@@ -1,0 +1,2095 @@
+{
+  "schemaVersion": 1,
+  "id": "20261110T032745213955Z-8fe5150b",
+  "createdAt": "2026-11-10T03:27:45.197958Z",
+  "androidVersion": "17",
+  "platformApi": 37,
+  "architecture": "arm64-v8a",
+  "channel": "stable",
+  "source": "legacy",
+  "packages": {
+    "aicore": {
+      "version": "395592-45b460e789b0"
+    },
+    "android_auto": {
+      "version": "12565520-799a32e733d1"
+    },
+    "android_device_policy": {
+      "version": "10572820-arm64-v8a-c17dd76c8c7c"
+    },
+    "assistant_go": {
+      "version": "16762-arm64-v8a-3ee5b50da9ee"
+    },
+    "carrier_services": {
+      "version": "30939330-a8cb2e58c797"
+    },
+    "device_health_services": {
+      "version": "10272647-arm64-v8a-567cd9aaa3d0"
+    },
+    "device_personalization_services": {
+      "version": "16911941-arm64-v8a-29a8b0a7ef49"
+    },
+    "device_setup": {
+      "version": "664-02a4deb1f3e4"
+    },
+    "digital_wellbeing": {
+      "version": "814547-arm64-v8a-9d7e628a114c"
+    },
+    "documents_uigoogle": {
+      "version": "340818110-f1341872c51c"
+    },
+    "drive": {
+      "version": "214380540-arm64-v8a-7ca24ef784f8"
+    },
+    "emoji_wallpaper": {
+      "version": "8404-arm64-v8a-6c59a6f4a308"
+    },
+    "gallery_go": {
+      "version": "12250740-arm64-v8a-946aa8f7ba98"
+    },
+    "gboard": {
+      "version": "175753810-arm64-v8a-4f54418114c1"
+    },
+    "gemini": {
+      "version": "227-arm64-v8a-2ebd2d990b0d"
+    },
+    "gmail": {
+      "version": "65615106-arm64-v8a-5925083bba57"
+    },
+    "gmail_go": {
+      "version": "62507962-arm64-v8a-3080e1c183c3"
+    },
+    "gms_core_android17": {
+      "version": "253434035-arm64-v8a-5e8ce7e63cd1"
+    },
+    "gms_core_go_android17": {
+      "version": "253434035-arm64-v8a-835e73957427"
+    },
+    "google_calculator": {
+      "version": "85011599-7d32cec6fe5e"
+    },
+    "google_calendar": {
+      "version": "2018015783-arm64-v8a-ce13c1c62e8f"
+    },
+    "google_chrome": {
+      "version": "699813532-7d46476d6d6a"
+    },
+    "google_clock": {
+      "version": "76060331-3051ff4848be"
+    },
+    "google_contacts": {
+      "version": "3266771-arm64-v8a-6d15f98eec63"
+    },
+    "google_dialer": {
+      "version": "19827468-arm64-v8a-969201853b9c"
+    },
+    "google_docs": {
+      "version": "214820440-arm64-v8a-501aef4bd65f"
+    },
+    "google_feedback": {
+      "version": "37-e3cfc7670bb3"
+    },
+    "google_files": {
+      "version": "1613555-arm64-v8a-c76995dbceee"
+    },
+    "google_go": {
+      "version": "763879-arm64-v8a-6b8d81c39711"
+    },
+    "google_keep": {
+      "version": "220645310-arm64-v8a-1f751ba8941e"
+    },
+    "google_location_history": {
+      "version": "3-fafd01ac0e6e"
+    },
+    "google_maps": {
+      "version": "1068538231-arm64-v8a-e8e3282270a9"
+    },
+    "google_messages": {
+      "version": "307085063-arm64-v8a-89eec38c7111"
+    },
+    "google_partner_setup": {
+      "version": "2869-cd2b77ab0656"
+    },
+    "google_personal_safety": {
+      "version": "100828314-arm64-v8a-bb150890a6a1"
+    },
+    "google_photos": {
+      "version": "51413603-arm64-v8a-a06a84450c1c"
+    },
+    "google_play_store": {
+      "version": "85124430-arm64-v8a-9beec417bb85"
+    },
+    "google_recorder": {
+      "version": "42380313-arm64-v8a-cdc22773b33f"
+    },
+    "google_restore": {
+      "version": "1054408-115d2d87ca2b"
+    },
+    "google_restore_pixel": {
+      "version": "1054408-3dcfa0c90d2a"
+    },
+    "google_services_framework": {
+      "version": "37-979d4d9cc533"
+    },
+    "google_sheets": {
+      "version": "214820440-arm64-v8a-3de8fe6d5e92"
+    },
+    "google_slides": {
+      "version": "214820540-arm64-v8a-400a15d2e300"
+    },
+    "google_sounds": {
+      "version": "34000252-b212343e1cd7"
+    },
+    "google_talkback": {
+      "version": "60201234-arm64-v8a-097bdd579ca0"
+    },
+    "google_tts": {
+      "version": "210598194-arm64-v8a-d26bf28daa63"
+    },
+    "google_wallpaper": {
+      "version": "200000300-db52761d88ff"
+    },
+    "maps_go": {
+      "version": "160-4f71494b1cee"
+    },
+    "markup_google": {
+      "version": "232-arm64-v8a-22e0dd32386f"
+    },
+    "meet": {
+      "version": "6958709-arm64-v8a-16ea84a6fc09"
+    },
+    "navigation_go": {
+      "version": "27-arm64-v8a-47e5cc814fa4"
+    },
+    "pixel_launcher": {
+      "version": "907-4def2ed5cf3b"
+    },
+    "pixel_setup_wizard": {
+      "version": "12395-40acfcbfd1a4"
+    },
+    "pixel_themes": {
+      "version": "2-a41563a20746"
+    },
+    "pixel_weather": {
+      "version": "10008663-arm64-v8a-31080506ad49"
+    },
+    "play_games": {
+      "version": "404700040-arm64-v8a-0a103575738d"
+    },
+    "private_compute_services": {
+      "version": "137423-arm64-v8a-e8b96982c98e"
+    },
+    "quick_access_wallet": {
+      "version": "10000000-0712029ea174"
+    },
+    "settings_services": {
+      "version": "1000298541-arm64-v8a-109d1f552144"
+    },
+    "setup_wizard": {
+      "version": "43869-arm64-v8a-f39fbbb31f6d"
+    },
+    "setup_wizard_pixel": {
+      "version": "43869-arm64-v8a-597621f7d21f"
+    },
+    "storage_manager": {
+      "version": "37-621504e96f2e"
+    },
+    "trichrome_library": {
+      "version": "699813532-759bae5d58e3"
+    },
+    "velvet": {
+      "version": "301762407-arm64-v8a-3a8bc52f7cb1"
+    },
+    "web_view_google": {
+      "version": "699813532-36d699d505cf"
+    },
+    "you_tube": {
+      "version": "1561179976-arm64-v8a-44337fed26ba"
+    },
+    "you_tube_music": {
+      "version": "91052240-arm64-v8a-bb9b04f7fd46"
+    }
+  },
+  "appSets": [
+    {
+      "id": "android_auto",
+      "name": "AndroidAuto",
+      "packages": [
+        "android_auto"
+      ],
+      "resolvedPackages": [
+        "android_auto"
+      ],
+      "legacyPackageNames": {
+        "android_auto": "AndroidAuto"
+      }
+    },
+    {
+      "id": "android_device_policy",
+      "name": "AndroidDevicePolicy",
+      "packages": [
+        "android_device_policy"
+      ],
+      "resolvedPackages": [
+        "android_device_policy"
+      ],
+      "legacyPackageNames": {
+        "android_device_policy": "AndroidDevicePolicy"
+      }
+    },
+    {
+      "id": "assistant_go",
+      "name": "AssistantGo",
+      "packages": [
+        "assistant_go"
+      ],
+      "resolvedPackages": [
+        "assistant_go"
+      ],
+      "legacyPackageNames": {
+        "assistant_go": "AssistantGo"
+      }
+    },
+    {
+      "id": "carrier_services",
+      "name": "CarrierServices",
+      "packages": [
+        "carrier_services"
+      ],
+      "resolvedPackages": [
+        "carrier_services"
+      ],
+      "legacyPackageNames": {
+        "carrier_services": "CarrierServices"
+      }
+    },
+    {
+      "id": "core",
+      "name": "Core",
+      "packages": [
+        "gms_core_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "resolvedPackages": [
+        "gms_core_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "legacyPackageNames": {
+        "gms_core_android17": "GmsCore",
+        "google_play_store": "GooglePlayStore",
+        "google_services_framework": "GoogleServicesFramework"
+      }
+    },
+    {
+      "id": "core_go",
+      "name": "CoreGo",
+      "packages": [
+        "gms_core_go_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "resolvedPackages": [
+        "gms_core_go_android17",
+        "google_play_store",
+        "google_services_framework"
+      ],
+      "legacyPackageNames": {
+        "gms_core_go_android17": "GmsCore",
+        "google_play_store": "GooglePlayStore",
+        "google_services_framework": "GoogleServicesFramework"
+      }
+    },
+    {
+      "id": "device_health_services",
+      "name": "DeviceHealthServices",
+      "packages": [
+        "device_health_services"
+      ],
+      "resolvedPackages": [
+        "device_health_services"
+      ],
+      "legacyPackageNames": {
+        "device_health_services": "DeviceHealthServices"
+      }
+    },
+    {
+      "id": "device_setup",
+      "name": "DeviceSetup",
+      "packages": [
+        "device_setup"
+      ],
+      "resolvedPackages": [
+        "device_setup"
+      ],
+      "legacyPackageNames": {
+        "device_setup": "DeviceSetup"
+      }
+    },
+    {
+      "id": "digital_wellbeing",
+      "name": "DigitalWellbeing",
+      "packages": [
+        "digital_wellbeing"
+      ],
+      "resolvedPackages": [
+        "digital_wellbeing"
+      ],
+      "legacyPackageNames": {
+        "digital_wellbeing": "DigitalWellbeing"
+      }
+    },
+    {
+      "id": "drive",
+      "name": "Drive",
+      "packages": [
+        "drive"
+      ],
+      "resolvedPackages": [
+        "drive"
+      ],
+      "legacyPackageNames": {
+        "drive": "Drive"
+      }
+    },
+    {
+      "id": "gboard",
+      "name": "GBoard",
+      "packages": [
+        "gboard"
+      ],
+      "resolvedPackages": [
+        "gboard"
+      ],
+      "legacyPackageNames": {
+        "gboard": "GBoard"
+      }
+    },
+    {
+      "id": "gallery_go",
+      "name": "GalleryGo",
+      "packages": [
+        "gallery_go"
+      ],
+      "resolvedPackages": [
+        "gallery_go"
+      ],
+      "legacyPackageNames": {
+        "gallery_go": "GalleryGo"
+      }
+    },
+    {
+      "id": "gmail",
+      "name": "Gmail",
+      "packages": [
+        "gmail"
+      ],
+      "resolvedPackages": [
+        "gmail"
+      ],
+      "legacyPackageNames": {
+        "gmail": "Gmail"
+      }
+    },
+    {
+      "id": "gmail_go",
+      "name": "GmailGo",
+      "packages": [
+        "gmail_go"
+      ],
+      "resolvedPackages": [
+        "gmail_go"
+      ],
+      "legacyPackageNames": {
+        "gmail_go": "GmailGo"
+      }
+    },
+    {
+      "id": "google_calculator",
+      "name": "GoogleCalculator",
+      "packages": [
+        "google_calculator"
+      ],
+      "resolvedPackages": [
+        "google_calculator"
+      ],
+      "legacyPackageNames": {
+        "google_calculator": "GoogleCalculator"
+      }
+    },
+    {
+      "id": "google_calendar",
+      "name": "GoogleCalendar",
+      "packages": [
+        "google_calendar"
+      ],
+      "resolvedPackages": [
+        "google_calendar"
+      ],
+      "legacyPackageNames": {
+        "google_calendar": "GoogleCalendar"
+      }
+    },
+    {
+      "id": "google_chrome",
+      "name": "GoogleChrome",
+      "packages": [
+        "google_chrome",
+        "trichrome_library",
+        "web_view_google"
+      ],
+      "resolvedPackages": [
+        "google_chrome",
+        "trichrome_library",
+        "web_view_google"
+      ],
+      "legacyPackageNames": {
+        "google_chrome": "GoogleChrome",
+        "trichrome_library": "TrichromeLibrary",
+        "web_view_google": "WebViewGoogle"
+      }
+    },
+    {
+      "id": "google_clock",
+      "name": "GoogleClock",
+      "packages": [
+        "google_clock"
+      ],
+      "resolvedPackages": [
+        "google_clock"
+      ],
+      "legacyPackageNames": {
+        "google_clock": "GoogleClock"
+      }
+    },
+    {
+      "id": "google_contacts",
+      "name": "GoogleContacts",
+      "packages": [
+        "google_contacts"
+      ],
+      "resolvedPackages": [
+        "google_contacts"
+      ],
+      "legacyPackageNames": {
+        "google_contacts": "GoogleContacts"
+      }
+    },
+    {
+      "id": "google_dialer",
+      "name": "GoogleDialer",
+      "packages": [
+        "google_dialer"
+      ],
+      "resolvedPackages": [
+        "google_dialer"
+      ],
+      "legacyPackageNames": {
+        "google_dialer": "GoogleDialer"
+      }
+    },
+    {
+      "id": "google_docs",
+      "name": "GoogleDocs",
+      "packages": [
+        "google_docs"
+      ],
+      "resolvedPackages": [
+        "google_docs"
+      ],
+      "legacyPackageNames": {
+        "google_docs": "GoogleDocs"
+      }
+    },
+    {
+      "id": "google_feedback",
+      "name": "GoogleFeedback",
+      "packages": [
+        "google_feedback"
+      ],
+      "resolvedPackages": [
+        "google_feedback"
+      ],
+      "legacyPackageNames": {
+        "google_feedback": "GoogleFeedback"
+      }
+    },
+    {
+      "id": "google_files",
+      "name": "GoogleFiles",
+      "packages": [
+        "documents_uigoogle",
+        "google_files",
+        "storage_manager"
+      ],
+      "resolvedPackages": [
+        "documents_uigoogle",
+        "google_files",
+        "storage_manager"
+      ],
+      "legacyPackageNames": {
+        "documents_uigoogle": "DocumentsUIGoogle",
+        "google_files": "GoogleFiles",
+        "storage_manager": "StorageManager"
+      }
+    },
+    {
+      "id": "google_go",
+      "name": "GoogleGo",
+      "packages": [
+        "google_go"
+      ],
+      "resolvedPackages": [
+        "google_go"
+      ],
+      "legacyPackageNames": {
+        "google_go": "GoogleGo"
+      }
+    },
+    {
+      "id": "google_keep",
+      "name": "GoogleKeep",
+      "packages": [
+        "google_keep"
+      ],
+      "resolvedPackages": [
+        "google_keep"
+      ],
+      "legacyPackageNames": {
+        "google_keep": "GoogleKeep"
+      }
+    },
+    {
+      "id": "google_location_history",
+      "name": "GoogleLocationHistory",
+      "packages": [
+        "google_location_history"
+      ],
+      "resolvedPackages": [
+        "google_location_history"
+      ],
+      "legacyPackageNames": {
+        "google_location_history": "GoogleLocationHistory"
+      }
+    },
+    {
+      "id": "google_maps",
+      "name": "GoogleMaps",
+      "packages": [
+        "google_maps"
+      ],
+      "resolvedPackages": [
+        "google_maps"
+      ],
+      "legacyPackageNames": {
+        "google_maps": "GoogleMaps"
+      }
+    },
+    {
+      "id": "google_messages",
+      "name": "GoogleMessages",
+      "packages": [
+        "google_messages"
+      ],
+      "resolvedPackages": [
+        "google_messages"
+      ],
+      "legacyPackageNames": {
+        "google_messages": "GoogleMessages"
+      }
+    },
+    {
+      "id": "google_partner_setup",
+      "name": "GooglePartnerSetup",
+      "packages": [
+        "google_partner_setup"
+      ],
+      "resolvedPackages": [
+        "google_partner_setup"
+      ],
+      "legacyPackageNames": {
+        "google_partner_setup": "GooglePartnerSetup"
+      }
+    },
+    {
+      "id": "google_personal_safety",
+      "name": "GooglePersonalSafety",
+      "packages": [
+        "google_personal_safety"
+      ],
+      "resolvedPackages": [
+        "google_personal_safety"
+      ],
+      "legacyPackageNames": {
+        "google_personal_safety": "GooglePersonalSafety"
+      }
+    },
+    {
+      "id": "google_photos",
+      "name": "GooglePhotos",
+      "packages": [
+        "google_photos"
+      ],
+      "resolvedPackages": [
+        "google_photos"
+      ],
+      "legacyPackageNames": {
+        "google_photos": "GooglePhotos"
+      }
+    },
+    {
+      "id": "google_recorder",
+      "name": "GoogleRecorder",
+      "packages": [
+        "google_recorder"
+      ],
+      "resolvedPackages": [
+        "google_recorder"
+      ],
+      "legacyPackageNames": {
+        "google_recorder": "GoogleRecorder"
+      }
+    },
+    {
+      "id": "google_search",
+      "name": "GoogleSearch",
+      "packages": [
+        "gemini",
+        "velvet"
+      ],
+      "resolvedPackages": [
+        "gemini",
+        "velvet"
+      ],
+      "legacyPackageNames": {
+        "gemini": "Gemini",
+        "velvet": "Velvet"
+      }
+    },
+    {
+      "id": "google_sheets",
+      "name": "GoogleSheets",
+      "packages": [
+        "google_sheets"
+      ],
+      "resolvedPackages": [
+        "google_sheets"
+      ],
+      "legacyPackageNames": {
+        "google_sheets": "GoogleSheets"
+      }
+    },
+    {
+      "id": "google_slides",
+      "name": "GoogleSlides",
+      "packages": [
+        "google_slides"
+      ],
+      "resolvedPackages": [
+        "google_slides"
+      ],
+      "legacyPackageNames": {
+        "google_slides": "GoogleSlides"
+      }
+    },
+    {
+      "id": "google_sounds",
+      "name": "GoogleSounds",
+      "packages": [
+        "google_sounds"
+      ],
+      "resolvedPackages": [
+        "google_sounds"
+      ],
+      "legacyPackageNames": {
+        "google_sounds": "GoogleSounds"
+      }
+    },
+    {
+      "id": "google_tts",
+      "name": "GoogleTTS",
+      "packages": [
+        "google_tts"
+      ],
+      "resolvedPackages": [
+        "google_tts"
+      ],
+      "legacyPackageNames": {
+        "google_tts": "GoogleTTS"
+      }
+    },
+    {
+      "id": "google_talkback",
+      "name": "GoogleTalkback",
+      "packages": [
+        "google_talkback"
+      ],
+      "resolvedPackages": [
+        "google_talkback"
+      ],
+      "legacyPackageNames": {
+        "google_talkback": "GoogleTalkback"
+      }
+    },
+    {
+      "id": "maps_go",
+      "name": "MapsGo",
+      "packages": [
+        "maps_go"
+      ],
+      "resolvedPackages": [
+        "maps_go"
+      ],
+      "legacyPackageNames": {
+        "maps_go": "MapsGo"
+      }
+    },
+    {
+      "id": "markup_google",
+      "name": "MarkupGoogle",
+      "packages": [
+        "markup_google"
+      ],
+      "resolvedPackages": [
+        "markup_google"
+      ],
+      "legacyPackageNames": {
+        "markup_google": "MarkupGoogle"
+      }
+    },
+    {
+      "id": "meet",
+      "name": "Meet",
+      "packages": [
+        "meet"
+      ],
+      "resolvedPackages": [
+        "meet"
+      ],
+      "legacyPackageNames": {
+        "meet": "Meet"
+      }
+    },
+    {
+      "id": "navigation_go",
+      "name": "NavigationGo",
+      "packages": [
+        "navigation_go"
+      ],
+      "resolvedPackages": [
+        "navigation_go"
+      ],
+      "legacyPackageNames": {
+        "navigation_go": "NavigationGo"
+      }
+    },
+    {
+      "id": "pixel_setup_wizard",
+      "name": "PixelSetupWizard",
+      "packages": [
+        "google_restore_pixel",
+        "pixel_setup_wizard",
+        "setup_wizard_pixel"
+      ],
+      "resolvedPackages": [
+        "google_restore_pixel",
+        "pixel_setup_wizard",
+        "setup_wizard_pixel"
+      ],
+      "legacyPackageNames": {
+        "google_restore_pixel": "GoogleRestorePixel",
+        "pixel_setup_wizard": "PixelSetupWizard",
+        "setup_wizard_pixel": "SetupWizardPixel"
+      }
+    },
+    {
+      "id": "pixel_specifics",
+      "name": "PixelSpecifics",
+      "packages": [
+        "aicore",
+        "device_personalization_services",
+        "emoji_wallpaper",
+        "google_wallpaper",
+        "pixel_launcher",
+        "pixel_themes",
+        "pixel_weather",
+        "private_compute_services",
+        "quick_access_wallet",
+        "settings_services"
+      ],
+      "resolvedPackages": [
+        "aicore",
+        "device_personalization_services",
+        "emoji_wallpaper",
+        "google_wallpaper",
+        "pixel_launcher",
+        "pixel_themes",
+        "pixel_weather",
+        "private_compute_services",
+        "quick_access_wallet",
+        "settings_services"
+      ],
+      "legacyPackageNames": {
+        "aicore": "AICore",
+        "device_personalization_services": "DevicePersonalizationServices",
+        "emoji_wallpaper": "EmojiWallpaper",
+        "google_wallpaper": "GoogleWallpaper",
+        "pixel_launcher": "PixelLauncher",
+        "pixel_themes": "PixelThemes",
+        "pixel_weather": "PixelWeather",
+        "private_compute_services": "PrivateComputeServices",
+        "quick_access_wallet": "QuickAccessWallet",
+        "settings_services": "SettingsServices"
+      }
+    },
+    {
+      "id": "play_games",
+      "name": "PlayGames",
+      "packages": [
+        "play_games"
+      ],
+      "resolvedPackages": [
+        "play_games"
+      ],
+      "legacyPackageNames": {
+        "play_games": "PlayGames"
+      }
+    },
+    {
+      "id": "setup_wizard",
+      "name": "SetupWizard",
+      "packages": [
+        "google_restore",
+        "setup_wizard"
+      ],
+      "resolvedPackages": [
+        "google_restore",
+        "setup_wizard"
+      ],
+      "legacyPackageNames": {
+        "google_restore": "GoogleRestore",
+        "setup_wizard": "SetupWizard"
+      }
+    },
+    {
+      "id": "you_tube",
+      "name": "YouTube",
+      "packages": [
+        "you_tube"
+      ],
+      "resolvedPackages": [
+        "you_tube"
+      ],
+      "legacyPackageNames": {
+        "you_tube": "YouTube"
+      }
+    },
+    {
+      "id": "you_tube_music",
+      "name": "YouTubeMusic",
+      "packages": [
+        "you_tube_music"
+      ],
+      "resolvedPackages": [
+        "you_tube_music"
+      ],
+      "legacyPackageNames": {
+        "you_tube_music": "YouTubeMusic"
+      }
+    }
+  ],
+  "configVersion": "42",
+  "definitionFingerprint": "e4d39fb0b5879c6e15a81804a4a47c81eef0a16c5567f9b29d99d6c6d5f3b850",
+  "configTemplate": {
+    "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730138221",
+    "sha256": "a3d6d0da6ebf4946136c55470c4ee8b9e64e861357a71acb41dc759402af900e",
+    "size": 3714
+  },
+  "packageDefinitions": {
+    "aicore": "c935743f6bb94be250282c6ddc701e04ecbdba505a5725145abd553c91ccb9d1",
+    "android_auto": "751a0b9b53fe74fb57ef9d8d69e099995105f1978f59ce4dd56a19634727cdc4",
+    "android_device_policy": "a41d05540b1a97af19d90dbdda776ddd9b39c99862a1ada606e496451e69dfce",
+    "assistant_go": "63be74424f4a574542d873c678f72ac85cb8d121057d853ecc14097e54b6fc34",
+    "carrier_services": "35929d88b5ae062357588f76cbfc45af32e0fc6b4065c12ec7af57dd0443d9b1",
+    "device_health_services": "04be9da746585e4ed8db04b7dabff55cf8bf51fe6278206245ede89a09145bf7",
+    "device_personalization_services": "42095842a10f295bdcc4cfafd0a8552aa49e398943bbc8b65be3c1e0832f0e61",
+    "device_setup": "f67fcd0387f2b897982583fd2a14f7429b0420d50e1a178e6cf3fb43a0f071e9",
+    "digital_wellbeing": "9913fa07446f9a0484b8279b996d451f677b3dde584d8ced33e43d2e39c25c38",
+    "documents_uigoogle": "c6ab0cd66517627e39c91056494e244e38d07818bf8f7cd7dd52e80a03449177",
+    "drive": "446be92b3b07898b96376c7eadfcdd14345eff988f5c2be55f349fadfec0aadd",
+    "emoji_wallpaper": "0b1ff5dcc48052bbe4a9d2897433c1dd8cfa8f6067118d842de1bc6cb0073ffb",
+    "gallery_go": "525b0a406b9ea3def8a2b1be9276617ae278d1a44c166496506c06f2824d109a",
+    "gboard": "8fd8db6b529cfea71471d8bac3bd568fbe7de28165175ac69e31ef2fc68a1c1f",
+    "gemini": "f464d02415ae9ba2fa743bfd3faa25a8972322424a19ecf7927d8f51fc4bb86c",
+    "gmail": "1c9f0463e2c14e69057b144ccd61375a8a3213b03e9ed9c3f3a970cb48fbb6a9",
+    "gmail_go": "67d3ba59fbf6a9622a6053faf98b1711bbd470a81034de72f862b0bddf3f0b89",
+    "gms_core_android17": "695f0956a4c151bdc22b8f5df140c9677b50eff80352a9f53fc5ce4c6fcf31d8",
+    "gms_core_go_android17": "9444798d96b5c42e24cfb44a4f7849fe3123c1ed7b93dd0e42152f0fa2a9e1af",
+    "google_calculator": "0c64afa8f6c9717f6c07f8f0f9ebe2a481e66b4f1149ae60a6683f8e5121d768",
+    "google_calendar": "bd56a1cb5e5525921d7949e26ddd8c6d47248b6d8512c402d30bde8116022077",
+    "google_chrome": "0f2cccf95faa73f0be838525965cdde842731bbddbabc24c84692ae4493e9056",
+    "google_clock": "79ed6760214f43d261f32cb7e018d799fee680967f2e2e762b40b6c456dd5e7a",
+    "google_contacts": "9fee21c3d44b48f4178ba1a22aefc6b27f7e1a0bbdf0118becaa6bc5b33481c1",
+    "google_dialer": "85b2944c261ef724e99c31d6caaef7c7685f941d5b16857599dac313c46ed5e6",
+    "google_docs": "f1c3d06f381c52c2b66323834f06cb640aceb47c3260b2990c3f35884eb2be26",
+    "google_feedback": "b1ab7f552a2d60bd738e5949be92cbf4b65884f2c4e3d9858a49d5bb7998e9cf",
+    "google_files": "6dd5f0359914b4803f4b35ec869462f597e26a4173c1ca85b5759dfaa1efb0ae",
+    "google_go": "d9894ce80bf0bc823fda36769934db10067ead63f4af8f1045fce9c89a64fe92",
+    "google_keep": "aa1fccc08fdf41004c9daafade8a403d345ddaeee898105f2d77389446534eab",
+    "google_location_history": "fc21ae74744ab29e58575921cfd5f455627ab3af24ff9226d0b12b8e6d828540",
+    "google_maps": "62e6563b6d7eb0a6783957014d54b92c31344a2f0baec17b6f05a3f8aabde4ef",
+    "google_messages": "7880d8f9b5436bfc264fa07f51ec90c8262119ba222388098e7d2641d01fa47c",
+    "google_partner_setup": "a05b1d714ad4fa20a3cf7eb67a9d0d56f8848eaf88102e7f0c920d7dfa2eca19",
+    "google_personal_safety": "0ed4605b1f81387a97ec8fe4126a62ecc3d6aa2925226e1a4bcea4dc2a27bdaa",
+    "google_photos": "cb966b7d56814e80a9af38416d85ef08e4ca9e031e0bde3def9075298ec6d961",
+    "google_play_store": "7894b80fba66085c1872835065d6631c78c88abbbfac5c1f2ce04425938e05ad",
+    "google_recorder": "4f911d1712aff5a93bb718888f24c7e9b740bafacf23833dd2ec6543245ee8e6",
+    "google_restore": "436610b1634b7c51e4558a32cc9ca4f436680b78daaf0ade362092505b5b8556",
+    "google_restore_pixel": "f974acdbc782768502ebebaf4560166438f014783f6c5f2d1644371ae4f11c50",
+    "google_services_framework": "eea707ee0b0ce3f531cd01e4c6007a63e679b5fc984c333898f290b674b3d4a2",
+    "google_sheets": "984837c5034f1d172decf1fc5216e3a7f9f64de552f585d3ba0645364d115fd5",
+    "google_slides": "0adb9e36a6b5379a7f93fce89ecacb35ce2fe5edc11f5d941fd4d3562603b98b",
+    "google_sounds": "a159c901cdadbbde01d4dc6a620621e0421cd2d40659f97b9e1b339df7c1a1aa",
+    "google_talkback": "d32d04d1ddc797f7430594093a7caa7cc5576361764331631e24de9267d1b6e9",
+    "google_tts": "47b1751abc18a12498f19aa0f7a83718e5f12ad4991d9f93a9856825688627ab",
+    "google_wallpaper": "b22546fc05abaa51e9e7faaae1997c8cd83fbb21b3e986b79888a53db3f52f2c",
+    "maps_go": "125bf9bbe1bd2ece28c899fa32b56a9a2e828afbfc0cc5d98e0991cfafd2e3f7",
+    "markup_google": "7094ee849ad6b5d53c0b1f0a784ae1a689a3d790a2bbaa3519131d5686ffb5b0",
+    "meet": "4e8363de6cfe32c9a1d9bd7572671e6ea67adbce658cbf9f81becb6925b99f9e",
+    "navigation_go": "4cac60c0af08792acba9c7419f6f63b94a854a6ff44d4f708e6b8b8834e8f31e",
+    "pixel_launcher": "6a7ef20f0f243138189f5e8a6a87de6a771081f59775c44774a57a631f9c2d5e",
+    "pixel_setup_wizard": "7d21b2bfde096e54e79bdd3286b6c9dc144162ea11c73308543cd36bfb6a98db",
+    "pixel_themes": "2df6630f1166f7531abde671ae9019b2fc427fba343a2628955b6207afe5869d",
+    "pixel_weather": "67e9bae979463c719e2cff70dbe1c791a01811e3a9fec46dcfc2fa80b88cfc56",
+    "play_games": "ac92a0f9254bbe483c7b845ed6b9bf367aa737c90cb9974c1148a8427488aaa0",
+    "private_compute_services": "97398541f27e8db6b74ed32adeb358a14ba2db6529734eada56b6bea5b6b49b2",
+    "quick_access_wallet": "bd8e263875ca8f248694795d9f9d72d4d4d371e4e8f888c357d679e9c75b4b2b",
+    "settings_services": "b88d670b0cd815d16bf4c1773ac8b7a2ab8d312442f0f82d91cc696c4e14d51f",
+    "setup_wizard": "d5b5d8983cc23452953715874dfcf355fa4064613f32000a1ee50f8c3f041258",
+    "setup_wizard_pixel": "2f2f4b6729f08864f2370e53ea0230e50c7f52498a35fe14caa36ab23e76b7bc",
+    "storage_manager": "72024bbaa5ada478f0e6917c5a15ecc680951781951338e747851b5cc14f6752",
+    "trichrome_library": "1f1f6045268665aec32eb2d4a809f1fbc03c7c89234563959aad1ed807cdd6d9",
+    "velvet": "94822959c623b4d310f87b41833b8dd3de96cf55f3ed49992d180b563928a640",
+    "web_view_google": "e636aa2e17cdf67627102401060dd600cd7f09ebb77c94509533cff9efa42e5c",
+    "you_tube": "f107933d2776c0b2e87250b15ebfb114228ff736d8cbd30504a4188459c9ea72",
+    "you_tube_music": "f0ec645ea3224e1720b9cc3f48662fa3c326b568967a1d61e6005ef1d97f2157"
+  },
+  "configSettings": [
+    "AndroidVersion",
+    "ExecuteBackupRestore",
+    "GenerateLogs",
+    "GmsOptimization",
+    "InstallPartition",
+    "LogDirectory",
+    "Mode",
+    "OverwriteWithZipConfig",
+    "UseZipConfig",
+    "Version",
+    "WipeDalvikCache",
+    "WipeRuntimePermissions"
+  ],
+  "sourceforge": {
+    "schemaVersion": 1,
+    "status": "published",
+    "registryReleaseId": "20261110T032745213955Z-8fe5150b",
+    "androidVersion": "17",
+    "configVersion": "42",
+    "releaseDate": "2026-11-10",
+    "channel": "stable",
+    "architecture": "arm64-v8a",
+    "stableCommit": "ae4bef228debce1be3f980b9bcbbcd3ab29e572b",
+    "overlaysCommit": "42ae7e94ddf21a43d90088287a8451efd8d21d6a",
+    "builderCommit": "8095cfc8afb13201c92b1884df847e553e90f59a",
+    "uploadedAt": "2026-11-10T03:40:06.959875+00:00",
+    "releaseFolderUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/",
+    "manifestUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/release-manifest.json/download",
+    "checksumsUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/SHA256SUMS/download",
+    "linksUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/release-links.json/download",
+    "files": [
+      {
+        "path": "NikGapps-core-arm64-17-20261110-signed.zip",
+        "sha256": "669ec2559ad563df75e75e365e22f1b1fb8f308bbbf28bb9d453932d9baa99ac",
+        "size": 140086580,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 3,
+        "packages": [
+          "Core/GmsCore",
+          "Core/GooglePlayStore",
+          "Core/GoogleServicesFramework"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 3
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-core-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-core-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "NikGapps-corego-arm64-17-20261110-signed.zip",
+        "sha256": "09621eb790e33ce68313d9ba4407e70e3419cb00c597078d4f78610cf8954482",
+        "size": 140089189,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 3,
+        "packages": [
+          "CoreGo/GmsCore",
+          "CoreGo/GooglePlayStore",
+          "CoreGo/GoogleServicesFramework"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 3
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-corego-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-corego-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "NikGapps-basic-arm64-17-20261110-signed.zip",
+        "sha256": "b16150b82e7a5ac62eda8fc254c8676c0e451d8aecd05f3cbc432282f479f7d4",
+        "size": 277931804,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 9,
+        "packages": [
+          "CarrierServices/CarrierServices",
+          "Core/GmsCore",
+          "Core/GooglePlayStore",
+          "Core/GoogleServicesFramework",
+          "DigitalWellbeing/DigitalWellbeing",
+          "GoogleClock/GoogleClock",
+          "GoogleContacts/GoogleContacts",
+          "GoogleDialer/GoogleDialer",
+          "GoogleMessages/GoogleMessages"
+        ],
+        "validation": {
+          "overlayFiles": 6,
+          "privAppPermissionFiles": 8
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-basic-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-basic-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "NikGapps-omni-arm64-17-20261110-signed.zip",
+        "sha256": "bb8ce77643bc853c7d6aa9ebb4e733f558a1427b92c9521b7d60d8c31018e7f7",
+        "size": 609165453,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 20,
+        "packages": [
+          "CarrierServices/CarrierServices",
+          "Core/GmsCore",
+          "Core/GooglePlayStore",
+          "Core/GoogleServicesFramework",
+          "DeviceHealthServices/DeviceHealthServices",
+          "DigitalWellbeing/DigitalWellbeing",
+          "Drive/Drive",
+          "GBoard/GBoard",
+          "GoogleCalculator/GoogleCalculator",
+          "GoogleCalendar/GoogleCalendar",
+          "GoogleClock/GoogleClock",
+          "GoogleContacts/GoogleContacts",
+          "GoogleDialer/GoogleDialer",
+          "GoogleKeep/GoogleKeep",
+          "GoogleLocationHistory/GoogleLocationHistory",
+          "GoogleMaps/GoogleMaps",
+          "GoogleMessages/GoogleMessages",
+          "GooglePhotos/GooglePhotos",
+          "SetupWizard/GoogleRestore",
+          "SetupWizard/SetupWizard"
+        ],
+        "validation": {
+          "overlayFiles": 9,
+          "privAppPermissionFiles": 11
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-omni-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-omni-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "NikGapps-stock-arm64-17-20261110-signed.zip",
+        "sha256": "e917fb2cbcc56646d40589a7afc2221300e34beb2db5bc85e611ad7fa564ba93",
+        "size": 1048637498,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 40,
+        "packages": [
+          "CarrierServices/CarrierServices",
+          "Core/GmsCore",
+          "Core/GooglePlayStore",
+          "Core/GoogleServicesFramework",
+          "DeviceHealthServices/DeviceHealthServices",
+          "DigitalWellbeing/DigitalWellbeing",
+          "Drive/Drive",
+          "GBoard/GBoard",
+          "GoogleCalculator/GoogleCalculator",
+          "GoogleCalendar/GoogleCalendar",
+          "GoogleClock/GoogleClock",
+          "GoogleContacts/GoogleContacts",
+          "GoogleDialer/GoogleDialer",
+          "GoogleFiles/DocumentsUIGoogle",
+          "GoogleFiles/GoogleFiles",
+          "GoogleFiles/StorageManager",
+          "GoogleKeep/GoogleKeep",
+          "GoogleLocationHistory/GoogleLocationHistory",
+          "GoogleMaps/GoogleMaps",
+          "GoogleMessages/GoogleMessages",
+          "GooglePhotos/GooglePhotos",
+          "GoogleRecorder/GoogleRecorder",
+          "GoogleSearch/Gemini",
+          "GoogleSearch/Velvet",
+          "GoogleSounds/GoogleSounds",
+          "GoogleTTS/GoogleTTS",
+          "MarkupGoogle/MarkupGoogle",
+          "PixelSpecifics/AICore",
+          "PixelSpecifics/DevicePersonalizationServices",
+          "PixelSpecifics/EmojiWallpaper",
+          "PixelSpecifics/GoogleWallpaper",
+          "PixelSpecifics/PixelLauncher",
+          "PixelSpecifics/PixelThemes",
+          "PixelSpecifics/PixelWeather",
+          "PixelSpecifics/PrivateComputeServices",
+          "PixelSpecifics/QuickAccessWallet",
+          "PixelSpecifics/SettingsServices",
+          "PlayGames/PlayGames",
+          "SetupWizard/GoogleRestore",
+          "SetupWizard/SetupWizard"
+        ],
+        "validation": {
+          "overlayFiles": 17,
+          "privAppPermissionFiles": 25
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-stock-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-stock-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "NikGapps-full-arm64-17-20261110-signed.zip",
+        "sha256": "ebdb4266133bda1f4839e3e67061cb94756f8c3eb623457123cec9650c22ee8a",
+        "size": 1262839452,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 49,
+        "packages": [
+          "AndroidAuto/AndroidAuto",
+          "AndroidDevicePolicy/AndroidDevicePolicy",
+          "CarrierServices/CarrierServices",
+          "Core/GmsCore",
+          "Core/GooglePlayStore",
+          "Core/GoogleServicesFramework",
+          "DeviceHealthServices/DeviceHealthServices",
+          "DeviceSetup/DeviceSetup",
+          "DigitalWellbeing/DigitalWellbeing",
+          "Drive/Drive",
+          "GBoard/GBoard",
+          "Gmail/Gmail",
+          "GoogleCalculator/GoogleCalculator",
+          "GoogleCalendar/GoogleCalendar",
+          "GoogleChrome/GoogleChrome",
+          "GoogleChrome/TrichromeLibrary",
+          "GoogleChrome/WebViewGoogle",
+          "GoogleClock/GoogleClock",
+          "GoogleContacts/GoogleContacts",
+          "GoogleDialer/GoogleDialer",
+          "GoogleFeedback/GoogleFeedback",
+          "GoogleFiles/DocumentsUIGoogle",
+          "GoogleFiles/GoogleFiles",
+          "GoogleFiles/StorageManager",
+          "GoogleKeep/GoogleKeep",
+          "GoogleLocationHistory/GoogleLocationHistory",
+          "GoogleMaps/GoogleMaps",
+          "GoogleMessages/GoogleMessages",
+          "GooglePartnerSetup/GooglePartnerSetup",
+          "GooglePhotos/GooglePhotos",
+          "GoogleRecorder/GoogleRecorder",
+          "GoogleSearch/Gemini",
+          "GoogleSearch/Velvet",
+          "GoogleSounds/GoogleSounds",
+          "GoogleTTS/GoogleTTS",
+          "MarkupGoogle/MarkupGoogle",
+          "PixelSpecifics/AICore",
+          "PixelSpecifics/DevicePersonalizationServices",
+          "PixelSpecifics/EmojiWallpaper",
+          "PixelSpecifics/GoogleWallpaper",
+          "PixelSpecifics/PixelLauncher",
+          "PixelSpecifics/PixelThemes",
+          "PixelSpecifics/PixelWeather",
+          "PixelSpecifics/PrivateComputeServices",
+          "PixelSpecifics/QuickAccessWallet",
+          "PixelSpecifics/SettingsServices",
+          "PlayGames/PlayGames",
+          "SetupWizard/GoogleRestore",
+          "SetupWizard/SetupWizard"
+        ],
+        "validation": {
+          "overlayFiles": 20,
+          "privAppPermissionFiles": 29
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-full-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-full-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "NikGapps-go-arm64-17-20261110-signed.zip",
+        "sha256": "5c85acc74cbbf5f5d69c1eb48fb83052f67bbdd9283cf57f012556f327b883df",
+        "size": 202423831,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026",
+        "packageCount": 9,
+        "packages": [
+          "AssistantGo/AssistantGo",
+          "CoreGo/GmsCore",
+          "CoreGo/GooglePlayStore",
+          "CoreGo/GoogleServicesFramework",
+          "GalleryGo/GalleryGo",
+          "GmailGo/GmailGo",
+          "GoogleGo/GoogleGo",
+          "MapsGo/MapsGo",
+          "NavigationGo/NavigationGo"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 5
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/NikGapps-go-arm64-17-20261110-signed.zip/download",
+        "fileName": "NikGapps-go-arm64-17-20261110-signed.zip",
+        "kind": "preset"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-DigitalWellbeing-20261110-signed.zip",
+        "sha256": "48fcac4d4b41d1fe40e1deee53d931f4d957fe3aab925087e7789755cb152f85",
+        "size": 10223008,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "DigitalWellbeing/DigitalWellbeing"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-DigitalWellbeing-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-DigitalWellbeing-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleMessages-20261110-signed.zip",
+        "sha256": "e296374b95dc03085c4562516ececed44c212da67031ca5e970e7cd931a23941",
+        "size": 68388522,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleMessages/GoogleMessages"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleMessages-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleMessages-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleDialer-20261110-signed.zip",
+        "sha256": "e6d24b43919491956370b04a5869f6e32c211948d28fe89919c3cd6d0e97f912",
+        "size": 38299153,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleDialer/GoogleDialer"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleDialer-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleDialer-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleContacts-20261110-signed.zip",
+        "sha256": "4add70585e0f5cae10247ce50518545aa1d65426eefa0e411255579060ae89e6",
+        "size": 14826254,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleContacts/GoogleContacts"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleContacts-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleContacts-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-CarrierServices-20261110-signed.zip",
+        "sha256": "dc0e9f27089667c547e648ea55979f9310aa04e30668fadbab055a303c287dc0",
+        "size": 4694595,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "CarrierServices/CarrierServices"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-CarrierServices-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-CarrierServices-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleClock-20261110-signed.zip",
+        "sha256": "eea678b94eef26b20a152fd501730e99bbd5ce6efa7867afbb370a31be6ccd21",
+        "size": 8440296,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleClock/GoogleClock"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleClock-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleClock-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-SetupWizard-20261110-signed.zip",
+        "sha256": "ad6ed440431c9c0020e6a22eb21bd6458b3804116240830971a09a6c57688635",
+        "size": 17639688,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 2,
+        "packages": [
+          "SetupWizard/GoogleRestore",
+          "SetupWizard/SetupWizard"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 2
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-SetupWizard-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-SetupWizard-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleCalculator-20261110-signed.zip",
+        "sha256": "2c33072121eff47f183aef3701f3a1d54ef41cef2aeb0e559f35b73e8b25bb14",
+        "size": 6226723,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleCalculator/GoogleCalculator"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleCalculator-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleCalculator-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-Drive-20261110-signed.zip",
+        "sha256": "b0ca3c4340d037a6f8208e58800751f23e0690bfa859bc96ca0875f608e523b3",
+        "size": 37678660,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "Drive/Drive"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-Drive-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-Drive-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleMaps-20261110-signed.zip",
+        "sha256": "74586c40c85600aef9786cb49c911348c250ac6b2caa4df8604d8f86d31f18bb",
+        "size": 53787302,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleMaps/GoogleMaps"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleMaps-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleMaps-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleLocationHistory-20261110-signed.zip",
+        "sha256": "48e937c5a4dc1e2deeb738701b3ebe43426193daa50aa223937f32080df13039",
+        "size": 2341404,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleLocationHistory/GoogleLocationHistory"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleLocationHistory-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleLocationHistory-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GooglePhotos-20261110-signed.zip",
+        "sha256": "989a3db1b9cab6c83b0ef0a8dc7089239c1188f56620891e7e2cbe99809bad56",
+        "size": 74250302,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GooglePhotos/GooglePhotos"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GooglePhotos-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GooglePhotos-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-DeviceHealthServices-20261110-signed.zip",
+        "sha256": "3bb22db57eb02a619f45937acf82532e65cebe2372b94591cc01b2afdf09ed42",
+        "size": 7677771,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "DeviceHealthServices/DeviceHealthServices"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-DeviceHealthServices-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-DeviceHealthServices-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GBoard-20261110-signed.zip",
+        "sha256": "ba301cc2652fb777a8c5ba358d5c166827ce232fe3dbb4aa4fac9e172b9a228c",
+        "size": 104306984,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GBoard/GBoard"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GBoard-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GBoard-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleCalendar-20261110-signed.zip",
+        "sha256": "9905299a0c7d9e2cf35c274f201e6f958dd63df8198c270fc83ea01ccfabcc4f",
+        "size": 21662766,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleCalendar/GoogleCalendar"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleCalendar-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleCalendar-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleKeep-20261110-signed.zip",
+        "sha256": "ac691d4bca10657563c47ee3274811f5f9e82fb3d95b9c3eddb4cdfedf257d33",
+        "size": 17373095,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleKeep/GoogleKeep"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleKeep-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleKeep-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-PixelSpecifics-20261110-signed.zip",
+        "sha256": "ae53e87f765ff647fe6bebc9ae9b62744a7be287782d6943f5de6e3973f9bda4",
+        "size": 133410652,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 10,
+        "packages": [
+          "PixelSpecifics/AICore",
+          "PixelSpecifics/DevicePersonalizationServices",
+          "PixelSpecifics/EmojiWallpaper",
+          "PixelSpecifics/GoogleWallpaper",
+          "PixelSpecifics/PixelLauncher",
+          "PixelSpecifics/PixelThemes",
+          "PixelSpecifics/PixelWeather",
+          "PixelSpecifics/PrivateComputeServices",
+          "PixelSpecifics/QuickAccessWallet",
+          "PixelSpecifics/SettingsServices"
+        ],
+        "validation": {
+          "overlayFiles": 4,
+          "privAppPermissionFiles": 8
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-PixelSpecifics-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-PixelSpecifics-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-PlayGames-20261110-signed.zip",
+        "sha256": "6b2ae5c12938ac14c3ea58259f6c00506d6127c82579213354113469ff4ca655",
+        "size": 13772140,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "PlayGames/PlayGames"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-PlayGames-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-PlayGames-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleRecorder-20261110-signed.zip",
+        "sha256": "2a1b7c44f838ee9a1b6a8adaa9f34b9629a73168c0179451bcae3656bcc6d260",
+        "size": 51197991,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleRecorder/GoogleRecorder"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleRecorder-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleRecorder-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleFiles-20261110-signed.zip",
+        "sha256": "042dae7b18320d93244f8c46a3b657a18a503be074104ffecfeb9fe0e5a6beee",
+        "size": 18298195,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 3,
+        "packages": [
+          "GoogleFiles/DocumentsUIGoogle",
+          "GoogleFiles/GoogleFiles",
+          "GoogleFiles/StorageManager"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 3
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleFiles-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleFiles-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-MarkupGoogle-20261110-signed.zip",
+        "sha256": "3ffe525e471cd8919ab6272c4a71267bc03d780d0c364b0d3611a62c01b3d29f",
+        "size": 5004651,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "MarkupGoogle/MarkupGoogle"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-MarkupGoogle-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-MarkupGoogle-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleTTS-20261110-signed.zip",
+        "sha256": "e9520eb7feb75da0c5a4f1db865382d056fae5f36a648777848987bd7f3bc5e4",
+        "size": 41261582,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleTTS/GoogleTTS"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleTTS-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleTTS-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleSearch-20261110-signed.zip",
+        "sha256": "4ce584a9cf6e46bbda64dc2ca85e90e0e50f17744940d2bee77f7493e739d2ed",
+        "size": 181584976,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 2,
+        "packages": [
+          "GoogleSearch/Gemini",
+          "GoogleSearch/Velvet"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 2
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleSearch-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleSearch-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleSounds-20261110-signed.zip",
+        "sha256": "916b2f8084aa531300fcb2d84724859fc77248b4dd03721411dcb2051ce63625",
+        "size": 4310710,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleSounds/GoogleSounds"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleSounds-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleSounds-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleChrome-20261110-signed.zip",
+        "sha256": "a3f5eb4f77506371289776d757e16722008b063d8227c3a94e881a64f57a7808",
+        "size": 135053493,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 3,
+        "packages": [
+          "GoogleChrome/GoogleChrome",
+          "GoogleChrome/TrichromeLibrary",
+          "GoogleChrome/WebViewGoogle"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleChrome-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleChrome-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-Gmail-20261110-signed.zip",
+        "sha256": "b436f94158943559e043ff91c2fd3c47b7ab5b3b0578c171ce3b609d6367e1c7",
+        "size": 69314723,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "Gmail/Gmail"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-Gmail-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-Gmail-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-DeviceSetup-20261110-signed.zip",
+        "sha256": "39d0236e1b3b8504360e3e868b410988662659c3ebf71c14f6ae72d6fee6b07e",
+        "size": 2064711,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "DeviceSetup/DeviceSetup"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-DeviceSetup-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-DeviceSetup-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-AndroidAuto-20261110-signed.zip",
+        "sha256": "cf252c2ed75213a5fbb430539539ea2dc53e22b429b789e2f2e4fb9e9485ce5c",
+        "size": 2744621,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "AndroidAuto/AndroidAuto"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-AndroidAuto-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-AndroidAuto-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleFeedback-20261110-signed.zip",
+        "sha256": "03c06024e38d9090e6cb2000feb4372ce02df8b8ce99639ebb1cfa1d588e6792",
+        "size": 1389932,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleFeedback/GoogleFeedback"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleFeedback-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleFeedback-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GooglePartnerSetup-20261110-signed.zip",
+        "sha256": "c8122d284899f88d472a843c3e588c06a2553a4e7458744392b221f3b84632ee",
+        "size": 1851611,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GooglePartnerSetup/GooglePartnerSetup"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GooglePartnerSetup-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GooglePartnerSetup-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-AndroidDevicePolicy-20261110-signed.zip",
+        "sha256": "d006aeaa8002dfbd635545158ab511cf731a514b30dddf524c223653ddacfc6e",
+        "size": 9980554,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "AndroidDevicePolicy/AndroidDevicePolicy"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-AndroidDevicePolicy-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-AndroidDevicePolicy-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleGo-20261110-signed.zip",
+        "sha256": "ecd70bc2d1fa6357232ac9894f51319dbf33b031f854ac3ea2311f611bd9d44a",
+        "size": 12705241,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleGo/GoogleGo"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleGo-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleGo-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-AssistantGo-20261110-signed.zip",
+        "sha256": "07d32944b0cd2abe2763cb7d75824ac21d49d6f92e78abc716a6c832f6c4039e",
+        "size": 7725092,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "AssistantGo/AssistantGo"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-AssistantGo-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-AssistantGo-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-MapsGo-20261110-signed.zip",
+        "sha256": "8d81139ceb5c578039153310b9ebfb7b6dbe509a5a20472bf552e3b8f184e8df",
+        "size": 1719562,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "MapsGo/MapsGo"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-MapsGo-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-MapsGo-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-NavigationGo-20261110-signed.zip",
+        "sha256": "12c1a8f5de3582db0437c28b4499e0b86020ab76070e5fe986261cd1ef23b408",
+        "size": 13540498,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "NavigationGo/NavigationGo"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-NavigationGo-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-NavigationGo-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GalleryGo-20261110-signed.zip",
+        "sha256": "308044606b5a88e031f927054577de58ef1d4120dfd421fce109b92341cfea19",
+        "size": 12167553,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GalleryGo/GalleryGo"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GalleryGo-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GalleryGo-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GmailGo-20261110-signed.zip",
+        "sha256": "3dc99d20028042b60e9be21e3866c6b2635fc99a7102e3f5ffe808339680412f",
+        "size": 21503181,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GmailGo/GmailGo"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GmailGo-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GmailGo-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-PixelSetupWizard-20261110-signed.zip",
+        "sha256": "6a0fe590484796241c305fb6c94e2b249d1bce27c8112698c68e4f4131ca8a3b",
+        "size": 21598109,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 3,
+        "packages": [
+          "PixelSetupWizard/GoogleRestorePixel",
+          "PixelSetupWizard/PixelSetupWizard",
+          "PixelSetupWizard/SetupWizardPixel"
+        ],
+        "validation": {
+          "overlayFiles": 5,
+          "privAppPermissionFiles": 3
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-PixelSetupWizard-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-PixelSetupWizard-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-Meet-20261110-signed.zip",
+        "sha256": "b524c4610b105b46ac2da8f305e34cfd1ce4726791512fee0a94d52f58027189",
+        "size": 51927833,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "Meet/Meet"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-Meet-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-Meet-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleDocs-20261110-signed.zip",
+        "sha256": "d99dd2d77422300a7df75a35e1e8fcfefa3a7b3ffc6aaccb5cd51ed1e668d208",
+        "size": 40235988,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleDocs/GoogleDocs"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleDocs-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleDocs-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleSheets-20261110-signed.zip",
+        "sha256": "73adae9be69ffce659b9098d2fa963ec8308f1958269a6528166b8ca5f1da7f0",
+        "size": 39676001,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleSheets/GoogleSheets"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleSheets-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleSheets-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleSlides-20261110-signed.zip",
+        "sha256": "88a4c711e19681c1b88d7d7479ae816003ad6a439225e01b4b524e6c66f8830e",
+        "size": 58821546,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleSlides/GoogleSlides"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleSlides-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleSlides-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-YouTube-20261110-signed.zip",
+        "sha256": "e167583f0c0a5fffd426241e4552bd00941a8d3c9842c27dd64b51044308cb55",
+        "size": 74314086,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "YouTube/YouTube"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-YouTube-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-YouTube-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-YouTubeMusic-20261110-signed.zip",
+        "sha256": "ef1b2d5918ea872cfeca8ab04af5de854f2e6611728783da8a82d71fc4eeb0f4",
+        "size": 40737393,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "YouTubeMusic/YouTubeMusic"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-YouTubeMusic-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-YouTubeMusic-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GoogleTalkback-20261110-signed.zip",
+        "sha256": "ed6ea784ef30201154f68fff4d8a44972eb23be1589e10750604b932152ff27e",
+        "size": 19700224,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GoogleTalkback/GoogleTalkback"
+        ],
+        "validation": {
+          "overlayFiles": 1,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GoogleTalkback-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GoogleTalkback-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "addons/NikGapps-Addon-17-GooglePersonalSafety-20261110-signed.zip",
+        "sha256": "e5be41e24388488064bf8172a77064e41c5e96a489468b2d74f30e340cf75240",
+        "size": 12872566,
+        "remoteDirectory": "Releases/Android-17/10-Nov-2026/Addons",
+        "packageCount": 1,
+        "packages": [
+          "GooglePersonalSafety/GooglePersonalSafety"
+        ],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 1
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-17/10-Nov-2026/Addons/NikGapps-Addon-17-GooglePersonalSafety-20261110-signed.zip/download",
+        "fileName": "NikGapps-Addon-17-GooglePersonalSafety-20261110-signed.zip",
+        "kind": "addon"
+      },
+      {
+        "path": "Removeotascripts-20261110-signed.zip",
+        "sha256": "15f7ba57f0dc3e64f01688846ff550bacc4d863ead6f017784cdc802e5812ee4",
+        "size": 1170984,
+        "remoteDirectory": "NikGappsTools/RemoveOtaScripts/10-Nov-2026",
+        "packageCount": 0,
+        "packages": [],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/NikGappsTools/RemoveOtaScripts/10-Nov-2026/Removeotascripts-20261110-signed.zip/download",
+        "fileName": "Removeotascripts-20261110-signed.zip",
+        "kind": "tool"
+      },
+      {
+        "path": "Debloater-20261110-signed.zip",
+        "sha256": "f206617d248fab65e9c3e6e1b9688bdafc3bbf67133b1e6d42ab34729c8b61c4",
+        "size": 1170973,
+        "remoteDirectory": "NikGappsTools/Debloater/10-Nov-2026",
+        "packageCount": 0,
+        "packages": [],
+        "validation": {
+          "overlayFiles": 0,
+          "privAppPermissionFiles": 0
+        },
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/NikGappsTools/Debloater/10-Nov-2026/Debloater-20261110-signed.zip/download",
+        "fileName": "Debloater-20261110-signed.zip",
+        "kind": "tool"
+      },
+      {
+        "path": "nikgapps.config",
+        "sha256": "a3d6d0da6ebf4946136c55470c4ee8b9e64e861357a71acb41dc759402af900e",
+        "size": 3714,
+        "remoteDirectory": "NikGappsConfigs/Android-17/v42",
+        "downloadUrl": "https://sourceforge.net/projects/nikgapps/files/NikGappsConfigs/Android-17/v42/nikgapps.config/download",
+        "fileName": "nikgapps.config",
+        "kind": "config"
+      }
+    ]
+  }
+}

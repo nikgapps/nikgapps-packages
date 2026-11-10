@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-02T23:14:11.695801+00:00",
+  "icons": {
+    "com.android.chrome": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144774",
+      "sha256": "cd693ab4955e60dc39b7c77bfc8219becbea5dc2035ac710a5173ff8f302216d",
+      "size": 10871,
+      "source": "https://play.google.com/store/apps/details?id=com.android.chrome&hl=en&gl=US"
+    },
+    "com.google.android.aicore": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730145701",
+      "sha256": "d19406e06b5e07cbcb08a0d8a3924049358ad72689da3e9e45d27a95eb82601d",
+      "size": 5515,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.aicore&hl=en&gl=US"
+    },
+    "com.google.android.apps.assistant": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730134575",
+      "sha256": "8b685c8b005f70e9d8a79c7ec8ef42c4c14af5ecbe7b49ffcc17d3f6756d8ef3",
+      "size": 7644,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.assistant&hl=en&gl=US"
+    },
+    "com.google.android.apps.bard": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730122397",
+      "sha256": "3e22c05da021a5997d00baa5b4455f5e668a2a7ee8a12291db71bf9c0e6c3cad",
+      "size": 12354,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=en&gl=US"
+    },
+    "com.google.android.apps.books": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730120781",
+      "sha256": "35a62af3de26dc0242aa95088c0f65481a414594ec7980c448622e96aefcc765",
+      "size": 3888,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en&gl=US"
+    },
+    "com.google.android.apps.docs": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730135685",
+      "sha256": "92a3ddc7c3dd74d711ef21dc815698a89ac6631e4edc2314fe21693ef6f1636f",
+      "size": 9439,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=US"
+    },
+    "com.google.android.apps.docs.editors.docs": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730149655",
+      "sha256": "e231a0a3bf3c7959bee2ed2bc77fef9bc4399e2397c91714b1091d7417914805",
+      "size": 6056,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en&gl=US"
+    },
+    "com.google.android.apps.docs.editors.sheets": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730137427",
+      "sha256": "a09be16a5103d7384e0d04dda91320d53f4661542cb1377c0e3baae558d1bff3",
+      "size": 9076,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en&gl=US"
+    },
+    "com.google.android.apps.docs.editors.slides": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730143938",
+      "sha256": "c17d9a6ea7fc87c5f742193f6674966299ecf9d55fcc84671f2099aa6fc86cff",
+      "size": 9450,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en&gl=US"
+    },
+    "com.google.android.apps.maps": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730151416",
+      "sha256": "f6a21c8d7411e680ad04ef836857feae2f2a24d1e14ac513d5e01830b288e98a",
+      "size": 6539,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=US"
+    },
+    "com.google.android.apps.mapslite": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730121688",
+      "sha256": "3a71270172291cee408a97d3a9941cc6b8167cb7da1c2d5226cba5053f835ae1",
+      "size": 12387,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.mapslite&hl=en&gl=US"
+    },
+    "com.google.android.apps.messaging": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730102475",
+      "sha256": "12741e08a275ccaf7ee9905d649af47c9f3fe938c4c46992b56641acf00c5482",
+      "size": 6465,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en&gl=US"
+    },
+    "com.google.android.apps.nbu.files": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144812",
+      "sha256": "ce006de8b1e1a7179a8bc7f6b7125980f78558d4c22c4dc55ec0e47bf422186b",
+      "size": 8245,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en&gl=US"
+    },
+    "com.google.android.apps.photos": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730135868",
+      "sha256": "94161a535a8b4d6a6dc1f595a6f20096beb07abe714049851c81d55fb72e4805",
+      "size": 8240,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en&gl=US"
+    },
+    "com.google.android.apps.photosgo": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730090569",
+      "sha256": "09fabcfb66515aae8816b3f5a618c0f6ab683cf70941554a2c09caed91427f0d",
+      "size": 3557,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo&hl=en&gl=US"
+    },
+    "com.google.android.apps.recorder": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730137063",
+      "sha256": "9e4348fd7dcffabd6685e61ab5d40d387d93b34d54d22dc237793b0c9a5ada3c",
+      "size": 6007,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en&gl=US"
+    },
+    "com.google.android.apps.restore": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730129838",
+      "sha256": "6a8993773d830963716dd51595e978b0a20c775fb3b1cab12b0803a17cce335a",
+      "size": 10562,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.restore&hl=en&gl=US"
+    },
+    "com.google.android.apps.safetyhub": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730130553",
+      "sha256": "6ddb08daee05b1f152ff174e800fbffe8e9a96e44ab2dcae9721ab2901cbcb63",
+      "size": 7868,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub&hl=en&gl=US"
+    },
+    "com.google.android.apps.searchlite": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730136622",
+      "sha256": "9da2bd42398f5ee739982d471b5a7e090037bebc52db1853d706f669ecc4b84a",
+      "size": 8894,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite&hl=en&gl=US"
+    },
+    "com.google.android.apps.tachyon": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144475",
+      "sha256": "ca25cbb0632bae49b1b56bed8947d1f6106760c40a875d0f3861c7bb851a4a04",
+      "size": 9996,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en&gl=US"
+    },
+    "com.google.android.apps.wallpaper": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730133353",
+      "sha256": "8040ab62e8f9856b31c76637990bef4f3d83b5269276731c4f75c3bf32b07f16",
+      "size": 13325,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper&hl=en&gl=US"
+    },
+    "com.google.android.apps.weather": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730145750",
+      "sha256": "d2d66d9fcf71e96d9c4d904a25231281ed2820238acd48dec481523f9870f578",
+      "size": 9962,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.weather&hl=en&gl=US"
+    },
+    "com.google.android.apps.wellbeing": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730138798",
+      "sha256": "a847f46c648dbeecef06e298a4ca4ae70a5a6a32e5b3612437cc652a86115a17",
+      "size": 8560,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en&gl=US"
+    },
+    "com.google.android.apps.work.clouddpc": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730140509",
+      "sha256": "b22bc42a265319fc1953086ddb20018bef2a65ea2c09077482ade2437c079d98",
+      "size": 8604,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc&hl=en&gl=US"
+    },
+    "com.google.android.apps.work.oobconfig": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730150797",
+      "sha256": "ea3755f3f4e66b288e52ffd43a7ba4dce6a4e178b73755a2cdcd8c810e3bc27e",
+      "size": 1475,
+      "source": "apk:DeviceSetup/DeviceSetup/___priv-app___OTAConfigNoZeroTouchPrebuilt/OTAConfigNoZeroTouchPrebuilt.apk!/res/9e.png"
+    },
+    "com.google.android.apps.youtube.music": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730130898",
+      "sha256": "70a66900004fd89558c615aa0cbe9de6483ceeeb7794441427d6368bca36ff80",
+      "size": 6413,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en&gl=US"
+    },
+    "com.google.android.as": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730129082",
+      "sha256": "657ac4086d5843639e36c6122bb0e1957022d08eecc6a72a605177cfc05cf2c3",
+      "size": 7243,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.as&hl=en&gl=US"
+    },
+    "com.google.android.as.oss": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730149572",
+      "sha256": "e0b1677f9de6c25b12858047ec908dfec9e1ebb0a27e8b4524394c243d548e89",
+      "size": 9132,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.as.oss&hl=en&gl=US"
+    },
+    "com.google.android.calculator": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730090375",
+      "sha256": "07dc956b1e7ac7890abbfeb1a75e8401a8ce8503f5b9408a7bad8a891093fdc0",
+      "size": 11968,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en&gl=US"
+    },
+    "com.google.android.calendar": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730123578",
+      "sha256": "46ee569248cafb1cfdd1f83f26494c2f98558d0a9f5f76d152e9743dc9e08072",
+      "size": 9496,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=US"
+    },
+    "com.google.android.contacts": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730137782",
+      "sha256": "a14373aba45875c9a1a1fe570a3466f66f7942636b37fff0faeeaf56d28e4077",
+      "size": 4644,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.contacts&hl=en&gl=US"
+    },
+    "com.google.android.deskclock": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730143019",
+      "sha256": "bc65a2a04ad46f07a025f3001f5a457a630454a1dad65355b91a3188f7927a63",
+      "size": 15339,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en&gl=US"
+    },
+    "com.google.android.dialer": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730097452",
+      "sha256": "10ea2cab0ad44f9e1382fa34069db554f4173101a62f0cec281a52d21ef62465",
+      "size": 4887,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.dialer&hl=en&gl=US"
+    },
+    "com.google.android.gm": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730126302",
+      "sha256": "537b2243b0582d6c5d5f8a7423e60f0a18ea9e55d7c6af012aa4ef87805945e6",
+      "size": 7870,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US"
+    },
+    "com.google.android.gm.lite": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730088717",
+      "sha256": "063811981f0ac5d74a23d8e0ab40ba24eae94963af354e3ca9d4d5553bb69d4d",
+      "size": 6911,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.gm.lite&hl=en&gl=US"
+    },
+    "com.google.android.gms": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730150830",
+      "sha256": "eb739285de5d81a9c08c2556c5a755dc459fac1ae0fcad75a9833450ae504562",
+      "size": 7253,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.gms&hl=en&gl=US"
+    },
+    "com.google.android.gms.location.history": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730132430",
+      "sha256": "7ce4ed70776bca9b362272e519b80db129a7b2a9d89ac6bc72e6640fe09e72cb",
+      "size": 5992,
+      "source": "apk:GoogleLocationHistory/GoogleLocationHistory/___app___LocationHistoryPrebuilt/LocationHistoryPrebuilt.apk!/res/D5.png"
+    },
+    "com.google.android.googlequicksearchbox": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730136622",
+      "sha256": "9da2bd42398f5ee739982d471b5a7e090037bebc52db1853d706f669ecc4b84a",
+      "size": 8894,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en&gl=US"
+    },
+    "com.google.android.ims": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730146070",
+      "sha256": "d3e144c9f44629a807623047b9974e4f57f5b6e014c18841464a0a8f91ded7d3",
+      "size": 6595,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.ims&hl=en&gl=US"
+    },
+    "com.google.android.inputmethod.latin": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144217",
+      "sha256": "c2e5f771f87a5c20975fe54bd249bdedae230a370f770623385cf038be90adc0",
+      "size": 12765,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en&gl=US"
+    },
+    "com.google.android.keep": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730128893",
+      "sha256": "61226d5a6732beb40e1c0ad9205dc870eaa08b65ce6837dc1e3b3d4f654d8ffa",
+      "size": 11495,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=US"
+    },
+    "com.google.android.marvin.talkback": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730125824",
+      "sha256": "51ec185c35cd6a280964e9eb5db2a9189d590adad9adeac490bfd8d58ff2ce9b",
+      "size": 2472,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en&gl=US"
+    },
+    "com.google.android.play.games": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730135087",
+      "sha256": "907bac3cb79aba14c2ececda4dd4826204d4448419ed890ff3ee05c68fe67e1e",
+      "size": 6427,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.play.games&hl=en&gl=US"
+    },
+    "com.google.android.projection.gearhead": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730150472",
+      "sha256": "e8e90c12c480a160daab728d7182a7ab9577b4a08e090b6bcf768afeb3a4ad66",
+      "size": 6502,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead&hl=en&gl=US"
+    },
+    "com.google.android.storagemanager": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730135968",
+      "sha256": "97c09f0797abc1304d6dd1238a033ae7eafbce22209ea304b5210398e5b56700",
+      "size": 17279,
+      "source": "apk:GoogleFiles/StorageManager/___priv-app___StorageManagerGoogle/StorageManagerGoogle.apk!/res/mipmap-mdpi-v4/ic_storage_manager_48px.png"
+    },
+    "com.google.android.syncadapters.calendar": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730097298",
+      "sha256": "0f84c0753bbf036317bca27781ca3b9ad86ebf96409942ea0dee701c75ce8211",
+      "size": 10324,
+      "source": "apk:Core/GoogleCalendarSyncAdapter/___app___GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk!/res/D2.png"
+    },
+    "com.google.android.syncadapters.contacts": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730131603",
+      "sha256": "77c3ea6221164201f704efd3da37981097afb2ad2f183140e293146e0a243c1f",
+      "size": 9191,
+      "source": "apk:Core/GoogleContactsSyncAdapter/___app___GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk!/res/drawable-xxxhdpi-v4/app_icon.png"
+    },
+    "com.google.android.tts": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730126439",
+      "sha256": "5565338c99fd08ec6dfdab5bce572f5b2e4876868dcbc538cf19acf645331ae1",
+      "size": 5034,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.tts&hl=en&gl=US"
+    },
+    "com.google.android.webview": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730146038",
+      "sha256": "d37dc076f2c11150ab7ad1363634a23e12aae2561759bc19dd2617923ce27a01",
+      "size": 9073,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.webview&hl=en&gl=US"
+    },
+    "com.google.android.youtube": {
+      "url": "https://api.github.com/repos/nikgapps/nikgapps-packages/releases/assets/730144671",
+      "sha256": "cb8e0090b9241b7bdcf388b436b7620e4000664084062120b8aec2cb4e5cc250",
+      "size": 3123,
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en&gl=US"
+    }
+  }
+}

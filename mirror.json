@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "source": "gitlab",
+  "project": "85036487",
+  "sourceCommit": "58ed6bb99aacbff000d7eeebb826b866aa657272",
+  "repository": "nikgapps/nikgapps-packages",
+  "metadataPaths": [
+    "appsets.json",
+    "builder-assets.json",
+    "catalog.json",
+    "config-templates.json",
+    "icons.json",
+    "releases/android-16-arm64-v8a.json",
+    "releases/android-16/arm64-v8a/stable/20260811T001721Z-4482dd23.json",
+    "releases/android-16/arm64-v8a/stable/20260811T020018Z-4482dd23.json",
+    "releases/android-16/arm64-v8a/stable/20260811T021446Z-4482dd23.json",
+    "releases/android-16/arm64-v8a/stable/20260811T030332Z-4482dd23.json",
+    "releases/android-17-arm64-v8a.json",
+    "releases/android-17/arm64-v8a/stable/20260811T022043Z-7cfd770d.json",
+    "releases/android-17/arm64-v8a/stable/20260811T025719Z-243eb7d6.json",
+    "releases/android-17/arm64-v8a/stable/20260811T034831Z-5b178339.json",
+    "releases/android-17/arm64-v8a/stable/20261006T192020Z-951a5b50.json",
+    "releases/android-17/arm64-v8a/stable/20261009T000641Z-6143ceee.json",
+    "releases/android-17/arm64-v8a/stable/20261012T171351331663Z-f442b13b.json",
+    "releases/android-17/arm64-v8a/stable/20261016T134555460079Z-6f034156.json",
+    "releases/android-17/arm64-v8a/stable/20261110T005441839511Z-8fe5150b.json",
+    "releases/android-17/arm64-v8a/stable/20261110T032745213955Z-8fe5150b.json",
+    "releases/index.json"
+  ]
+}
